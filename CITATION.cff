@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this representative Alaska fuel network, please cite this repository and the associated paper."
+title: "Representative Alaska Fuel Distribution Network: Data and Construction Pipeline"
+type: dataset
+version: 0.1.0
+authors:
+  - family-names: Yilmaz
+    given-names: Alican
+license: MIT
+keywords:
+  - Alaska
+  - fuel distribution
+  - supply-chain network
+  - network construction
+  - infrastructure resilience

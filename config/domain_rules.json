@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "evidence_guide": "docs/DOMAIN_RULE_EVIDENCE.md",
+  "flow_tolerance_barrels": 0.000001,
+  "construction_capacity_ratios": {
+    "supplier_to_demand": 1.10,
+    "terminal_to_demand": 1.50
+  },
+  "local_three_tier_chains": [
+    {
+      "rule_id": "LOCAL_KUPARUK",
+      "supplier": "R_CONOCOPHILLIPS_KUPARUK",
+      "terminal": "D_KUPARUK_LOCAL",
+      "customer": "L_KUPARUK_INDUSTRIAL_OPERATIONS",
+      "evidence": [
+        "https://dec.alaska.gov/Applications/SPAR/PublicMVC/CSP/SiteReport/267",
+        "https://dec.alaska.gov/Applications/Air/airtoolsweb/Home/ViewAttachment/16608649/YQlno6vJE2ZMsAuri7Zc0g2",
+        "https://www.eia.gov/petroleum/refinerycapacity/table3.pdf"
+      ],
+      "evidence_class": "evidence-informed modeling restriction",
+      "evidence_note": "Sources establish CPF-1 as a site-specific oil-field topping facility; the exclusive three-node chain is a conservative network-construction assumption."
+    },
+    {
+      "rule_id": "LOCAL_PRUDHOE",
+      "supplier": "R_HILCORP_PRUDHOE",
+      "terminal": "ANLTK02054",
+      "customer": "L_PRUDHOE_DEADHORSE_INDUSTRIAL_OPERATIONS",
+      "evidence": [
+        "https://dec.alaska.gov/Applications/Air/airtoolsweb/Home/ViewAttachment/17167453/TSiW3-CldfSS4X-635tr2g2",
+        "https://dec.alaska.gov/Applications/Air/airtoolsweb/Home/ViewAttachment/17167454/z86QqXiAhMckqqY3fZ4hxw2",
+        "https://www.eia.gov/petroleum/refinerycapacity/table3.pdf"
+      ],
+      "evidence_class": "evidence-informed modeling restriction",
+      "evidence_note": "Sources establish a Prudhoe Bay crude-oil topping unit; the exclusive three-node chain is a conservative network-construction assumption."
+    }
+  ],
+  "exclusive_terminal_customer_pairs": [
+    {
+      "rule_id": "LOCAL_ADAK",
+      "terminal": "ANLTK02001",
+      "customer": "L_0039",
+      "evidence": "https://dot.alaska.gov/stwddes/desbridge/assets/grant/southcoast/ak_COE_AlaskaBargeReport_2010_FINAL.pdf",
+      "evidence_class": "evidence-informed modeling restriction",
+      "evidence_locator": "Alaska Barge Landing System Design Study, Phase 2, Section 6.3.1, printed pages 53-54"
+    },
+    {
+      "rule_id": "LOCAL_ST_PAUL",
+      "terminal": "ANLTK02063",
+      "customer": "L_ST_PAUL_COMMUNITY_FUEL",
+      "evidence": "https://dot.alaska.gov/stwddes/desbridge/assets/grant/southcoast/ak_COE_AlaskaBargeReport_2010_FINAL.pdf",
+      "evidence_class": "evidence-informed modeling restriction",
+      "evidence_locator": "Alaska Barge Landing System Design Study, Phase 2, Section 6.3.14, printed pages 67-68"
+    },
+    {
+      "rule_id": "LOCAL_ST_GEORGE",
+      "terminal": "ANLTK02062",
+      "customer": "L_ST_GEORGE_COMMUNITY_FUEL",
+      "evidence": "https://dot.alaska.gov/stwddes/desbridge/assets/grant/southcoast/ak_COE_AlaskaBargeReport_2010_FINAL.pdf",
+      "evidence_class": "evidence-informed modeling restriction",
+      "evidence_locator": "Alaska Barge Landing System Design Study, Phase 2, Section 6.3.13, printed pages 66-67"
+    }
+  ],
+  "excluded_terminals": [
+    {
+      "rule_id": "EXCLUDE_RED_DOG_MINE_PORT",
+      "terminal": "ANLTK02036",
+      "reason": "DeLong Mountain/Red Dog is modeled as a specialized mine port rather than a general community refined-fuel terminal.",
+      "evidence": "https://dot.alaska.gov/nreg/nwatp/files/nwatpMarineRiverineConditions.pdf",
+      "evidence_locator": "Section 1.2.1, Fuel Delivery Methods, printed page 4; Section 1.4.3, Red Dog Port Existing Conditions, printed page 24",
+      "evidence_class": "direct operational evidence"
+    }
+  ],
+  "forbidden_supply_terminal_arcs": [
+    {
+      "rule_id": "NO_NORTH_POLE_TO_KOTZEBUE",
+      "origin": "R_PETROSTAR_NORTH_POLE",
+      "destination": "ANLTK02035",
+      "evidence": [
+        "https://dot.alaska.gov/nreg/nwatp/files/nwatpMarineRiverineConditions.pdf",
+        "https://petrostar.com/locations/"
+      ],
+      "evidence_locator": "NWATP Section 1.2.1, printed page 4, and Section 1.3.1, printed pages 13-15; Petro Star Locations, North Pole and Fairbanks entries",
+      "evidence_class": "evidence-informed modeling restriction",
+      "evidence_note": "The sources describe Northwest marine supply and Interior-oriented North Pole operations."
+    }
+  ],
+  "terminal_service_radius_km": {
+    "ANLTK02035": 300.0,
+    "ANLTK02048": 250.0,
+    "ANLTK02045": 250.0,
+    "ANLTK02047": 250.0,
+    "ANLTK02021": 250.0,
+    "ANLTK02022": 250.0
+  },
+  "terminal_service_radius_evidence": {
+    "evidence_class": "manually-selected parameter",
+    "source": "https://dot.alaska.gov/nreg/nwatp/files/nwatpMarineRiverineConditions.pdf",
+    "source_locator": "Regional hub and lightering context on printed pages 4 and 13-15; Galena fuel landing in Table 9 on printed page 46",
+    "note": "The report does not specify 250 km or 300 km radii and does not substantiate the Fort Yukon radius numerically."
+  },
+  "required_group_connections": [
+    {
+      "rule_id": "VALDEZ_TO_ALEUTIANS",
+      "origin": "R_PETROSTAR_VALDEZ",
+      "destinations": ["ANLTK02066", "ANLTK02067", "ANLTK02068"],
+      "minimum_aggregate_flow_barrels": 1.0,
+      "evidence": "https://petrostar.com/locations/",
+      "evidence_locator": "Valdez Petroleum Terminal entry",
+      "evidence_class": "direct operational evidence",
+      "evidence_note": "Petro Star states that barges transship refined products between the Valdez refinery, Anchorage, and the Aleutian Islands."
+    }
+  ]
+}

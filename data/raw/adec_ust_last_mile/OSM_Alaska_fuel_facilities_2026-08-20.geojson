@@ -1,0 +1,7082 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-08-20T19:46:13Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/18289470",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Fuel tank farm",
+        "operator": "City of Chuathbaluk",
+        "self_service": "no",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.2419794,
+          61.5709475
+        ]
+      },
+      "id": "relation/18289470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/20382732",
+        "amenity": "fuel",
+        "brand": "Fred Meyer",
+        "brand:wikidata": "Q5495932",
+        "building": "yes",
+        "name": "Fred Meyer",
+        "self_service": "yes",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8673966,
+          61.1942001
+        ]
+      },
+      "id": "relation/20382732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/20425133",
+        "addr:city": "Anchorage",
+        "addr:housenumber": "2500",
+        "addr:postcode": "99503",
+        "addr:state": "AK",
+        "addr:street": "Seward Highway",
+        "amenity": "fuel",
+        "automated": "yes",
+        "brand": "Chevron",
+        "brand:wikidata": "Q319642",
+        "building": "roof;yes",
+        "fuel:diesel": "yes",
+        "fuel:gasoline_87": "yes",
+        "layer": "1",
+        "name": "Chevron Denali Express",
+        "opening_hours": "Mo-Su 05:00-03:00",
+        "operator": "Chevron",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "+19072783345",
+        "shop": "convenience",
+        "source": "microsoft/BuildingFootprints",
+        "type": "multipolygon",
+        "website": "https://www.denaliexpress.com/stations/fireweed/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8687713,
+          61.1972885
+        ]
+      },
+      "id": "relation/20425133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/20681640",
+        "amenity": "fuel",
+        "brand": "Carrs",
+        "brand:wikidata": "Q5046735",
+        "building": "roof",
+        "compressed_air": "yes",
+        "layer": "1",
+        "name": "Carrs Gas Station",
+        "type": "multipolygon",
+        "website": "https://local.fuel.carrsqc.com/ak/anchorage/1690-w-northern-lights-blvd.html",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.9165621,
+          61.1950185
+        ]
+      },
+      "id": "relation/20681640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/44945489",
+        "amenity": "fuel",
+        "brand": "Tesoro",
+        "brand:wikidata": "Q123414862",
+        "building": "yes",
+        "name": "Tesoro",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.859663,
+          61.1089236
+        ]
+      },
+      "id": "way/44945489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/65915155",
+        "addr:city": "Glennallen",
+        "addr:housenumber": "187",
+        "addr:postcode": "99588",
+        "addr:state": "AK",
+        "addr:street": "Glenn Highway",
+        "amenity": "fuel",
+        "email": "glennallenfuel@gmail.com",
+        "fuel:diesel": "yes",
+        "name": "Glennallen Fuel and Auto Service",
+        "note": "Auto Shop does not open until 9:00 AM Sell firewood. Staffed from 8:00 to 6 PM Monday to Friday.",
+        "opening_hours": "24/7",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+1 907-822-3303",
+        "self_service": "yes",
+        "website": "https://www.glennallenfuel.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.534842,
+          62.1076872
+        ]
+      },
+      "id": "node/65915155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/88081735",
+        "amenity": "fuel",
+        "building": "yes",
+        "layer": "1",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.9140236,
+          61.1862155
+        ]
+      },
+      "id": "way/88081735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/116072944",
+        "amenity": "fuel",
+        "brand": "Fred Meyer",
+        "brand:wikidata": "Q5495932",
+        "building": "roof",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "fuel:octane_85": "no",
+        "fuel:octane_86": "no",
+        "fuel:octane_87": "yes",
+        "fuel:octane_88": "no",
+        "fuel:octane_89": "no",
+        "fuel:octane_90": "yes",
+        "fuel:octane_91": "no",
+        "fuel:octane_92": "no",
+        "fuel:octane_93": "no",
+        "large_vehicles": "yes",
+        "layer": "1",
+        "mobile_reception": "yes",
+        "name": "Fred Meyer",
+        "payment:cards": "yes",
+        "self_service": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.8199747,
+          64.8362189
+        ]
+      },
+      "id": "way/116072944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/131301822",
+        "amenity": "fuel",
+        "building": "roof",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.9209343,
+          61.1370631
+        ]
+      },
+      "id": "way/131301822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/132188812",
+        "addr:housenumber": "3033",
+        "addr:postcode": "99801",
+        "addr:street": "Vintage Boulevard",
+        "amenity": "fuel",
+        "brand": "Safeway",
+        "brand:wikidata": "Q1508234",
+        "building": "yes",
+        "designation": "Safeway 1820",
+        "name": "Safeway Fuel Station",
+        "operator": "Safeway",
+        "ref": "1820",
+        "website": "https://local.fuel.safeway.com/safeway/ak/juneau/3037-vintage-blvd.html",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.5968653,
+          58.3713421
+        ]
+      },
+      "id": "way/132188812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/132190458",
+        "addr:housenumber": "2417",
+        "addr:postcode": "99901",
+        "addr:street": "Tongass Ave",
+        "amenity": "fuel",
+        "brand": "Safeway",
+        "brand:wikidata": "Q1508234",
+        "building": "roof",
+        "layer": "1",
+        "name": "Safeway Fuel Station",
+        "operator": "Safeway",
+        "self_service": "yes",
+        "website": "https://local.fuel.safeway.com/safeway/ak/ketchikan/2465-tongass-ave.html",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -131.6751412,
+          55.3490118
+        ]
+      },
+      "id": "way/132190458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/132190798",
+        "addr:city": "Fairbanks",
+        "addr:housenumber": "30",
+        "addr:postcode": "99701",
+        "addr:state": "AK",
+        "addr:street": "College Road",
+        "amenity": "fuel",
+        "brand": "Safeway",
+        "brand:wikidata": "Q1508234",
+        "building": "roof",
+        "designation": "Safeway 3410",
+        "name": "Safeway Fuel Station",
+        "operator": "Safeway",
+        "website": "https://local.fuel.safeway.com/safeway/ak/fairbanks/500-old-steese-hwy.html",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.6983067,
+          64.8502783
+        ]
+      },
+      "id": "way/132190798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/176994132",
+        "amenity": "fuel",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -166.5537057,
+          53.8841726
+        ]
+      },
+      "id": "way/176994132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/181379120",
+        "addr:city": "Anchorage",
+        "addr:housenumber": "2150",
+        "addr:postcode": "99502",
+        "addr:state": "AK",
+        "addr:street": "Raspberry Road",
+        "amenity": "fuel",
+        "brand": "Holiday",
+        "brand:wikidata": "Q5880490",
+        "building": "roof",
+        "check_date": "2026-07-22",
+        "compressed_air": "yes",
+        "name": "Holiday",
+        "operator": "Holiday",
+        "self_service": "no",
+        "source": "Bing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.9231394,
+          61.1586778
+        ]
+      },
+      "id": "way/181379120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/184098987",
+        "amenity": "fuel",
+        "automated": "yes",
+        "building": "roof",
+        "fuel:diesel": "yes",
+        "fuel:gasoline_87": "yes",
+        "fuel:gasoline_91": "yes",
+        "fuel:gasoline_93": "yes",
+        "name": "Essential One",
+        "operator": "Essential One",
+        "payment:cash": "no",
+        "payment:credit_cards": "yes",
+        "source": "Bing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.4489852,
+          60.9697496
+        ]
+      },
+      "id": "way/184098987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/197126982",
+        "addr:city": "Anchorage",
+        "addr:housenumber": "1375",
+        "addr:postcode": "99515",
+        "addr:state": "AK",
+        "addr:street": "Huffman Park Drive",
+        "amenity": "fuel",
+        "brand": "Carrs",
+        "brand:wikidata": "Q5046735",
+        "building": "roof",
+        "compressed_air": "yes",
+        "designation": "Safeway 1813",
+        "name": "Carrs Fuel Station",
+        "opening_hours": "PH closed; Mo-Su 07:00-22:00",
+        "operator": "Safeway",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "website": "https://local.fuel.carrsqc.com/ak/anchorage/1375-huffman-park-dr.html",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8572646,
+          61.1102501
+        ]
+      },
+      "id": "way/197126982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/197126984",
+        "amenity": "fuel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8534421,
+          61.1082996
+        ]
+      },
+      "id": "way/197126984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/239276795",
+        "addr:housenumber": "3627",
+        "addr:postcode": "99701",
+        "addr:street": "Airport Way",
+        "amenity": "fuel",
+        "brand": "Safeway",
+        "brand:wikidata": "Q1508234",
+        "building": "roof",
+        "designation": "Safeway 2754",
+        "name": "Safeway Fuel Station",
+        "operator": "Safeway",
+        "website": "https://local.fuel.safeway.com/safeway/ak/fairbanks/1385-university-ave.html",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.8117185,
+          64.8361174
+        ]
+      },
+      "id": "way/239276795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/241751150",
+        "amenity": "fuel",
+        "building": "roof",
+        "name": "Sourdough Fuels",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.3529206,
+          64.7571005
+        ]
+      },
+      "id": "way/241751150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/243610992",
+        "amenity": "fuel",
+        "brand": "Fred Meyer",
+        "brand:wikidata": "Q5495932",
+        "fuel:diesel": "yes",
+        "name": "Fred Meyer Fuel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.5590754,
+          61.3407636
+        ]
+      },
+      "id": "way/243610992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/255745863",
+        "amenity": "fuel",
+        "building": "yes",
+        "compressed_air": "yes",
+        "name": "Chevron",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.912437,
+          61.1955784
+        ]
+      },
+      "id": "way/255745863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/255745864",
+        "amenity": "fuel",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.9139053,
+          61.1956139
+        ]
+      },
+      "id": "way/255745864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/255758254",
+        "amenity": "fuel",
+        "building": "yes",
+        "compressed_air": "yes",
+        "name": "Chervon",
+        "opening_hours": "PH,Mo-Su 05:00-01:00",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.868988,
+          61.1732861
+        ]
+      },
+      "id": "way/255758254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/264289701",
+        "addr:city": "Glennallen",
+        "addr:state": "AK",
+        "addr:street": "Glenn Highway",
+        "amenity": "fuel",
+        "brand": "Marathon",
+        "brand:wikidata": "Q458363",
+        "building": "roof",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "fuel:octane_85": "no",
+        "fuel:octane_86": "no",
+        "fuel:octane_87": "yes",
+        "fuel:octane_88": "no",
+        "fuel:octane_89": "no",
+        "fuel:octane_90": "yes",
+        "fuel:octane_91": "no",
+        "fuel:octane_92": "no",
+        "fuel:octane_93": "no",
+        "large_vehicles": "yes",
+        "mobile_reception": "yes",
+        "name": "Marathon",
+        "source": "Bing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.4776158,
+          62.1081819
+        ]
+      },
+      "id": "way/264289701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/265006283",
+        "addr:city": "Soldotna",
+        "addr:housenumber": "43843",
+        "addr:postcode": "99669",
+        "addr:state": "AK",
+        "addr:street": "Sterling Highway",
+        "amenity": "fuel",
+        "brand": "Fred Meyer",
+        "brand:wikidata": "Q5495932",
+        "building": "roof",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "fuel:propane": "yes",
+        "layer": "1",
+        "name": "Fred Meyer",
+        "operator": "Fred Meyer",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "self_service": "yes",
+        "source": "Bing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.0512168,
+          60.4894127
+        ]
+      },
+      "id": "way/265006283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/265010750",
+        "addr:city": "Soldotna",
+        "addr:housenumber": "44279",
+        "addr:state": "AK",
+        "addr:street": "Sterling Highway",
+        "amenity": "fuel",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "building": "roof",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "fuel:lpg": "yes",
+        "layer": "1",
+        "mobile_reception": "yes",
+        "name": "Speedway Express",
+        "source": "Bing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.0657385,
+          60.4835184
+        ]
+      },
+      "id": "way/265010750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/265010753",
+        "amenity": "fuel",
+        "brand": "Holiday",
+        "brand:wikidata": "Q5880490",
+        "building": "retail",
+        "name": "Holiday",
+        "operator": "Holiday",
+        "source": "Bing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.0538782,
+          60.4881465
+        ]
+      },
+      "id": "way/265010753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/275374561",
+        "addr:city": "Denali Canyon",
+        "addr:state": "AK",
+        "addr:street": "George Parks Highway",
+        "amenity": "fuel",
+        "building": "roof",
+        "fuel:diesel": "no",
+        "fuel:gasoline": "yes",
+        "fuel:octane_85": "no",
+        "fuel:octane_86": "no",
+        "fuel:octane_87": "yes",
+        "large_vehicles": "discouraged",
+        "mobile_reception": "yes",
+        "name": "Tesoro",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.8974803,
+          63.7458826
+        ]
+      },
+      "id": "way/275374561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/286817373",
+        "addr:city": "Sitka",
+        "addr:housenumber": "618",
+        "addr:postcode": "99835",
+        "addr:street": "Katlian Street",
+        "amenity": "fuel",
+        "building": "yes",
+        "ele": "6.50",
+        "height": "5.30",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.3477141,
+          57.0557491
+        ]
+      },
+      "id": "way/286817373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/286821307",
+        "addr:city": "Sitka",
+        "addr:housenumber": "603",
+        "addr:postcode": "99835",
+        "addr:street": "Halibut Point Road",
+        "amenity": "fuel",
+        "building": "yes",
+        "ele": "15.10",
+        "height": "6.20",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.345434,
+          57.0566967
+        ]
+      },
+      "id": "way/286821307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/292332614",
+        "amenity": "fuel",
+        "building": "yes",
+        "operator": "Trident",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -160.5000348,
+          55.3362808
+        ]
+      },
+      "id": "way/292332614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/292333388",
+        "amenity": "fuel",
+        "building": "yes",
+        "name": "Fuel Dock - Boats",
+        "operator": "Trident Seafoods",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -160.5015229,
+          55.335275
+        ]
+      },
+      "id": "way/292333388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/296835309",
+        "amenity": "fuel",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "building": "roof",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "fuel:gasoline_87": "yes",
+        "large_vehicles": "yes",
+        "layer": "1",
+        "mobile_reception": "yes",
+        "name": "Speedway",
+        "operator": "Tesoro",
+        "payment:cards": "yes",
+        "payment:contactless": "yes",
+        "self_service": "yes",
+        "source": "Bing;GPS;geolocated photo;aerial imagery",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.0410455,
+          62.1366208
+        ]
+      },
+      "id": "way/296835309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/298012653",
+        "amenity": "fuel",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "building": "roof",
+        "name": "Speedway",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.4100029,
+          61.5776321
+        ]
+      },
+      "id": "way/298012653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/298012666",
+        "amenity": "fuel",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "building": "roof",
+        "name": "Speedway",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.4103441,
+          61.5778411
+        ]
+      },
+      "id": "way/298012666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/303074751",
+        "amenity": "fuel",
+        "brand": "Chevron",
+        "brand:wikidata": "Q319642",
+        "building": "roof",
+        "name": "Chevron",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.1215753,
+          61.5996889
+        ]
+      },
+      "id": "way/303074751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/303717296",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "building": "yes",
+        "compressed_air": "no",
+        "fuel:diesel": "yes",
+        "fuel:gasohol": "no",
+        "fuel:octane_91": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Shell",
+        "operator": "Shell",
+        "source": "Bing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8648255,
+          61.1451041
+        ]
+      },
+      "id": "way/303717296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/303748827",
+        "amenity": "fuel",
+        "brand": "Fred Meyer",
+        "brand:wikidata": "Q5495932",
+        "building": "roof",
+        "layer": "1",
+        "name": "Fred Meyer",
+        "operator": "Fred Meyer",
+        "source": "Bing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.7344002,
+          61.2106838
+        ]
+      },
+      "id": "way/303748827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/335989058",
+        "amenity": "fuel",
+        "building": "yes",
+        "name": "Valley Tesoro",
+        "operator": "Tesoro",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.5864186,
+          58.3723623
+        ]
+      },
+      "id": "way/335989058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/336012331",
+        "amenity": "fuel",
+        "brand": "Crowley",
+        "building": "yes",
+        "fuel:diesel": "yes",
+        "name": "Crowley",
+        "operator": "Crowley",
+        "phone": "+1-907-443-2219",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -165.4039785,
+          64.5057294
+        ]
+      },
+      "id": "way/336012331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/336469525",
+        "amenity": "fuel",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.5593933,
+          58.3588324
+        ]
+      },
+      "id": "way/336469525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/339023552",
+        "amenity": "fuel",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.5848337,
+          58.3633606
+        ]
+      },
+      "id": "way/339023552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/339032173",
+        "amenity": "fuel",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.6509555,
+          58.3872154
+        ]
+      },
+      "id": "way/339032173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/353359420",
+        "addr:city": "Palmer",
+        "addr:postcode": "99645",
+        "addr:state": "AK",
+        "addr:street": "East Palmer-Wasilla Highway",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "building": "roof",
+        "fuel:diesel": "yes",
+        "fuel:gasoline_87": "yes",
+        "fuel:gasoline_91": "yes",
+        "name": "Shell",
+        "old_name": "Sunoco",
+        "opening_hours": "24/7",
+        "operator": "Three Bears Alaska",
+        "source": "Bing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.2438939,
+          61.5998824
+        ]
+      },
+      "id": "way/353359420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/353372923",
+        "amenity": "fuel",
+        "automated": "yes",
+        "brand": "Holiday",
+        "brand:wikidata": "Q5880490",
+        "building": "yes",
+        "fuel:diesel": "yes",
+        "fuel:gasoline_87": "yes",
+        "fuel:gasoline_91": "yes",
+        "fuel:gasoline_93": "yes",
+        "name": "Holiday",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "source": "Bing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8538747,
+          61.2172035
+        ]
+      },
+      "id": "way/353372923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/355372509",
+        "amenity": "fuel",
+        "source": "Bing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8469342,
+          61.1424614
+        ]
+      },
+      "id": "way/355372509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/389319958",
+        "addr:city": "Wasilla",
+        "addr:housenumber": "205",
+        "addr:state": "AK",
+        "addr:street": "North Boundary Street",
+        "amenity": "fuel",
+        "brand": "Holiday",
+        "brand:wikidata": "Q5880490",
+        "building": "roof",
+        "name": "Holiday",
+        "self_service": "yes",
+        "source": "esri_USDOT_MatanuskaSusitnaAK",
+        "website": "https://www.circlek.com/store-locator/US/wasilla/225-n-boundary-st/2746605",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.4388454,
+          61.581422
+        ]
+      },
+      "id": "way/389319958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/389568882",
+        "amenity": "fuel",
+        "building": "roof",
+        "name": "Chevron",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.6228573,
+          61.5165602
+        ]
+      },
+      "id": "way/389568882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/389744219",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "building": "roof",
+        "name": "Shell",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.2409501,
+          61.6855175
+        ]
+      },
+      "id": "way/389744219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/390533152",
+        "amenity": "fuel",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "building": "roof",
+        "layer": "1",
+        "name": "Speedway",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.3497972,
+          64.7594968
+        ]
+      },
+      "id": "way/390533152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/390533154",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Three Bears Gas Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.3472658,
+          64.7620991
+        ]
+      },
+      "id": "way/390533154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/392326468",
+        "addr:city": "Fairbanks",
+        "addr:housenumber": "48",
+        "addr:postcode": "99701",
+        "addr:state": "AK",
+        "addr:street": "College Road",
+        "amenity": "fuel",
+        "brand": "Costco Gasoline",
+        "brand:wikidata": "Q715583",
+        "building": "yes",
+        "compressed_air": "no",
+        "fixme": "Please add and verify tags: fuel:octane_XX",
+        "fuel:diesel": "no",
+        "fuel:gasoline": "yes",
+        "fuel:octane_85": "no",
+        "fuel:octane_86": "no",
+        "fuel:octane_87": "yes",
+        "fuel:octane_88": "no",
+        "fuel:octane_89": "no",
+        "fuel:octane_90": "yes",
+        "fuel:octane_91": "no",
+        "fuel:octane_92": "no",
+        "fuel:octane_93": "no",
+        "large_vehicles": "yes",
+        "layer": "1",
+        "mobile_reception": "yes",
+        "name": "Costco Gasoline",
+        "opening_hours": "Mo-Fr 06:00-21:30; Sa-Su 07:00-19:00",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "+1-907-205-3607",
+        "self_service": "yes",
+        "website": "https://www.costco.com/warehouse-locations/fairbanks-ak-1342.html",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.7101499,
+          64.8537979
+        ]
+      },
+      "id": "way/392326468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/394617746",
+        "amenity": "fuel",
+        "building": "yes",
+        "compressed_air": "yes",
+        "name": "Fred Meyer Gas",
+        "opening_hours": "24/7",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.6876041,
+          64.8540266
+        ]
+      },
+      "id": "way/394617746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/395216606",
+        "amenity": "fuel",
+        "brand": "Tesoro",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "fuel:gasoline_87": "yes",
+        "large_vehicles": "yes",
+        "mobile_reception": "yes",
+        "name": "Tesoro",
+        "operator": "Tesoro Corporation",
+        "self_service": "yes",
+        "source": "GPS;geolocated photo;aerial imagery",
+        "website": "https://kennylakervpark.wixsite.com/kennylakemerc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -144.9518611,
+          61.7363093
+        ]
+      },
+      "id": "node/395216606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/401357915",
+        "amenity": "fuel",
+        "brand": "Chevron",
+        "brand:wikidata": "Q319642",
+        "name": "Chevron",
+        "operator": "Chevron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.7192366,
+          64.8492789
+        ]
+      },
+      "id": "node/401357915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/408045760",
+        "addr:city": "Cordova",
+        "addr:housenumber": "635",
+        "addr:postcode": "99574",
+        "addr:state": "AK",
+        "addr:street": "1st Street",
+        "amenity": "fuel",
+        "building": "roof",
+        "compressed_air": "no",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "fuel:propane": "yes",
+        "name": "Shoreside Petroleum",
+        "opening_hours": "Mo-Su,PH 00:00-00:00",
+        "self_service": "yes",
+        "website": "https://shoresidepetroleum.com/fuel-stations/shoreside-petroleum-cordova",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.7589704,
+          60.5434281
+        ]
+      },
+      "id": "way/408045760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/410640133",
+        "addr:city": "Stevens Village",
+        "addr:housenumber": "Mile 56",
+        "addr:state": "AK",
+        "addr:street": "Dalton Highway",
+        "amenity": "fuel",
+        "compressed_air": "unknown",
+        "email": "YukonRiver@YukonRiverCamp.com",
+        "fixme": "Please add and verify tags: addr; fuel:octane_XX; hours",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "fuel:octane_85": "unknown",
+        "fuel:octane_86": "unknown",
+        "fuel:octane_87": "unknown",
+        "fuel:octane_88": "unknown",
+        "fuel:octane_89": "unknown",
+        "fuel:octane_90": "unknown",
+        "fuel:octane_91": "unknown",
+        "fuel:octane_92": "unknown",
+        "fuel:octane_93": "unknown",
+        "large_vehicles": "yes",
+        "mobile_reception": "no",
+        "name": "Yukon River Camp",
+        "opening_hours": "unknown",
+        "payment:cards": "yes",
+        "payment:contactless": "unknown",
+        "payment:credit_cards": "unknown",
+        "phone": "+1-907-947-3557",
+        "self_service": "yes",
+        "website": "https://yukonrivercamp.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.7201941,
+          65.8808113
+        ]
+      },
+      "id": "node/410640133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/410734041",
+        "addr:city": "Coldfoot",
+        "addr:postcode": "99701",
+        "addr:state": "AK",
+        "addr:street": "Coldfoot Road",
+        "amenity": "fuel",
+        "compressed_air": "unknown",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "fuel:octane_85": "no",
+        "fuel:octane_86": "no",
+        "fuel:octane_87": "yes",
+        "fuel:octane_88": "no",
+        "fuel:octane_89": "no",
+        "fuel:octane_90": "no",
+        "fuel:octane_91": "no",
+        "fuel:octane_92": "no",
+        "fuel:octane_93": "no",
+        "large_vehicles": "yes",
+        "mobile_reception": "yes",
+        "name": "Coldfoot Camp",
+        "note": "$100/charge mimimum, if charging more than 75 kWh roughly $25+$1/kWh",
+        "opening_hours": "24/7",
+        "payment:cards": "yes",
+        "payment:contactless": "unknown",
+        "payment:credit_cards": "unknown",
+        "phone": "+1-907-474-3500",
+        "self_service": "yes",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.coldfootcamp.com",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.1779408,
+          67.2516115
+        ]
+      },
+      "id": "node/410734041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/420244138",
+        "amenity": "fuel",
+        "name": "Glennallen Fuel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.5368668,
+          62.1077746
+        ]
+      },
+      "id": "way/420244138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/420263055",
+        "amenity": "fuel",
+        "building": "roof",
+        "layer": "1",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.486024,
+          62.1069865
+        ]
+      },
+      "id": "way/420263055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/425946385",
+        "amenity": "fuel",
+        "brand": "Chevron",
+        "brand:wikidata": "Q319642",
+        "name": "Young's Chevron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -142.985827,
+          63.3353228
+        ]
+      },
+      "id": "node/425946385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426407789",
+        "amenity": "fuel",
+        "brand": "Holiday",
+        "brand:wikidata": "Q5880490",
+        "building": "yes",
+        "fuel:diesel": "yes",
+        "fuel:gasoline_87": "yes",
+        "fuel:gasoline_91": "yes",
+        "name": "Holiday",
+        "operator": "Holiday",
+        "source": "GPS;geolocated photo;aerial imagery",
+        "website": "https://www.circlek.com/store-locator/US/kenai/10671-kenai-spur-hwy/2746636",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.240122,
+          60.5573294
+        ]
+      },
+      "id": "way/426407789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/455287948",
+        "addr:city": "Northway",
+        "addr:housenumber": "1264",
+        "addr:postcode": "99764",
+        "addr:state": "AK",
+        "addr:street": "Alaska Highway",
+        "amenity": "fuel",
+        "building": "roof",
+        "compressed_air": "unknown",
+        "description": "Showers, flush toilets, deli",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "fuel:octane_85": "no",
+        "fuel:octane_86": "no",
+        "fuel:octane_87": "yes",
+        "fuel:octane_88": "no",
+        "fuel:octane_89": "no",
+        "fuel:octane_90": "no",
+        "fuel:octane_91": "no",
+        "fuel:octane_92": "no",
+        "fuel:octane_93": "no",
+        "large_vehicles": "yes",
+        "mobile_reception": "no",
+        "name": "Naabia Niign Gas Station",
+        "opening_hours": "24/7",
+        "payment:cards": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "+1-907-778-2298",
+        "self_service": "yes",
+        "source": "Bing",
+        "website": "https://rvalaskacampgrounds.com/campground/naabia-niign-campground/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -141.8022757,
+          63.0100742
+        ]
+      },
+      "id": "way/455287948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464411345",
+        "amenity": "fuel",
+        "building": "yes",
+        "drive_through": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.3110736,
+          57.0488052
+        ]
+      },
+      "id": "way/464411345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/479370738",
+        "amenity": "fuel",
+        "building": "roof",
+        "fuel:diesel": "yes",
+        "fuel:gasoline_87": "yes",
+        "name": "Delta Petro-Wash",
+        "not:brand:wikidata": "Q62274661",
+        "opening_hours": "24/7",
+        "source": "GPS;geolocated photo;aerial imagery",
+        "website": "https://delta-petro-wash.edan.io/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.7314769,
+          64.031047
+        ]
+      },
+      "id": "way/479370738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/479382014",
+        "amenity": "fuel",
+        "building": "yes",
+        "check_date": "2026-06-16",
+        "name": "Three Bears Alaska",
+        "shop": "convenience",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.7336593,
+          64.0409567
+        ]
+      },
+      "id": "way/479382014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/487231515",
+        "amenity": "fuel",
+        "building": "roof",
+        "name": "Sourdough Fuel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.7503983,
+          64.8524736
+        ]
+      },
+      "id": "way/487231515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/496063303",
+        "amenity": "fuel",
+        "brand": "Fred Meyer",
+        "brand:wikidata": "Q5495932",
+        "building": "industrial",
+        "compressed_air": "yes",
+        "name": "Fred Meyer",
+        "self_service": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8371871,
+          61.1371202
+        ]
+      },
+      "id": "way/496063303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/496063320",
+        "addr:housenumber": "1940",
+        "addr:street": "Abbott Road",
+        "amenity": "fuel",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "building": "roof",
+        "name": "Speedway Express",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8466875,
+          61.1385525
+        ]
+      },
+      "id": "way/496063320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/504314562",
+        "amenity": "fuel",
+        "brand": "Tesoro",
+        "building": "roof",
+        "fuel:diesel": "yes",
+        "fuel:gasoline_87": "yes",
+        "operator": "Tesoro Corporation",
+        "source": "GPS;geolocated photo;aerial imagery",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.8434142,
+          64.1524124
+        ]
+      },
+      "id": "way/504314562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/504491859",
+        "amenity": "fuel",
+        "brand": "Chevron",
+        "brand:wikidata": "Q319642",
+        "building": "roof",
+        "compressed_air": "yes",
+        "name": "Chevron",
+        "source": "Bing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.7977408,
+          64.8578438
+        ]
+      },
+      "id": "way/504491859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/506161082",
+        "amenity": "fuel",
+        "brand": "Tesoro",
+        "brand:wikidata": "Q123414862",
+        "building": "roof",
+        "fuel:diesel": "yes",
+        "fuel:gasoline_87": "yes",
+        "name": "Tesoro",
+        "operator": "Tesoro Corporation",
+        "source": "GPS;geolocated photo;aerial imagery",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.7779442,
+          61.2213458
+        ]
+      },
+      "id": "way/506161082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/506161084",
+        "amenity": "fuel",
+        "brand": "Holiday",
+        "brand:wikidata": "Q5880490",
+        "building": "roof",
+        "fuel:diesel": "yes",
+        "fuel:gasoline_87": "yes",
+        "name": "Holiday",
+        "operator": "Holiday",
+        "source": "GPS;geolocated photo;aerial imagery",
+        "website": "https://www.circlek.com/store-locator/US/anchorage/5501-debarr-rd/2746637",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.7774194,
+          61.210065
+        ]
+      },
+      "id": "way/506161084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/506161085",
+        "addr:city": "Anchorage",
+        "addr:housenumber": "2801",
+        "addr:postcode": "99504",
+        "addr:state": "AK",
+        "addr:street": "Boniface Parkway",
+        "amenity": "fuel",
+        "brand": "Chevron",
+        "brand:wikidata": "Q319642",
+        "building": "roof",
+        "fuel:diesel": "yes",
+        "fuel:gasoline_87": "yes",
+        "layer": "1",
+        "name": "Chevron Gas Station",
+        "opening_hours": "Mo-Su 05:00-01:00",
+        "operator": "Chevron",
+        "self_service": "yes",
+        "source": "GPS;geolocated photo;aerial imagery",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.7778505,
+          61.1949361
+        ]
+      },
+      "id": "way/506161085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/506161086",
+        "addr:city": "Anchorage",
+        "addr:housenumber": "5497",
+        "addr:postcode": "99504",
+        "addr:state": "AK",
+        "addr:street": "East Northern Lights Boulevard",
+        "amenity": "fuel",
+        "brand": "Holiday",
+        "brand:wikidata": "Q5880490",
+        "building": "roof",
+        "fuel:diesel": "yes",
+        "fuel:gasoline_87": "yes",
+        "name": "Holiday Gas Station",
+        "opening_hours": "24/7",
+        "operator": "Holiday",
+        "phone": "+1 907-333-9618",
+        "self_service": "yes",
+        "source": "GPS;geolocated photo;aerial imagery",
+        "website": "https://www.holidaystationstores.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.7790432,
+          61.1955698
+        ]
+      },
+      "id": "way/506161086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/506305661",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "building": "roof",
+        "fuel:diesel": "yes",
+        "fuel:gasoline_87": "yes",
+        "fuel:gasoline_93": "yes",
+        "name": "Mountain View Shell",
+        "opening_hours": "24/7",
+        "source": "GPS;geolocated photo;aerial imagery",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8127257,
+          61.2243397
+        ]
+      },
+      "id": "way/506305661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/506305679",
+        "amenity": "fuel",
+        "brand": "Holiday",
+        "brand:wikidata": "Q5880490",
+        "building": "roof",
+        "fuel:diesel": "yes",
+        "fuel:gasoline_87": "yes",
+        "name": "Holiday",
+        "operator": "Holiday",
+        "source": "GPS;geolocated photo;aerial imagery",
+        "website": "https://www.circlek.com/store-locator/US/anchorage/4627-mountain-view-dr/2746628",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.7939812,
+          61.2265091
+        ]
+      },
+      "id": "way/506305679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/507061260",
+        "addr:city": "Chugiak",
+        "addr:housenumber": "22211",
+        "addr:postcode": "99567",
+        "addr:state": "AK",
+        "addr:street": "Birchwood Loop Road",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "building": "roof",
+        "compressed_air": "yes",
+        "fuel:diesel": "yes",
+        "fuel:gasoline_87": "yes",
+        "layer": "1",
+        "name": "Shell",
+        "operator": "Shell Oil Co.",
+        "self_service": "yes",
+        "source": "digitalglobe",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.4671484,
+          61.4032751
+        ]
+      },
+      "id": "way/507061260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/507080588",
+        "amenity": "fuel",
+        "brand": "Fred Meyer",
+        "brand:wikidata": "Q5495932",
+        "building": "roof",
+        "fuel:diesel": "yes",
+        "fuel:gasoline_87": "yes",
+        "name": "Fred Meyer",
+        "operator": "Fred Meyer",
+        "source": "GPS;geolocated photo;aerial imagery",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.1175147,
+          61.6061626
+        ]
+      },
+      "id": "way/507080588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/510545414",
+        "amenity": "fuel",
+        "brand": "Tesoro",
+        "brand:wikidata": "Q123414862",
+        "building": "roof",
+        "fuel:diesel": "yes",
+        "fuel:gasoline_87": "yes",
+        "layer": "1",
+        "name": "Tesoro",
+        "source": "Bing;GPS;geolocated photo;aerial imagery",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8186166,
+          61.5532978
+        ]
+      },
+      "id": "way/510545414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/510570162",
+        "amenity": "fuel",
+        "brand": "Tesoro",
+        "brand:wikidata": "Q123414862",
+        "building": "roof",
+        "layer": "1",
+        "name": "Tesoro",
+        "operator": "Tesoro",
+        "source": "Bing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.6313885,
+          61.5821767
+        ]
+      },
+      "id": "way/510570162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/513010332",
+        "amenity": "fuel",
+        "building": "roof",
+        "fuel:diesel": "yes",
+        "fuel:gasoline_87": "yes",
+        "operator": "Tazlina Trading Post",
+        "source": "GPS;geolocated photo;aerial imagery",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.4267438,
+          62.0594044
+        ]
+      },
+      "id": "way/513010332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/514570800",
+        "amenity": "fuel",
+        "brand": "Tesoro",
+        "brand:wikidata": "Q123414862",
+        "building": "yes",
+        "fuel:diesel": "yes",
+        "fuel:gasoline_87": "yes",
+        "name": "Tesoro",
+        "source": "Bing;GPS;geolocated photo;aerial imagery",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -146.2630377,
+          61.1243882
+        ]
+      },
+      "id": "way/514570800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/515427541",
+        "addr:city": "Valdez",
+        "addr:housenumber": "131",
+        "addr:state": "AK",
+        "addr:street": "East Pioneer Drive",
+        "amenity": "fuel",
+        "brand": "Marathon",
+        "brand:wikidata": "Q458363",
+        "building": "roof",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "fuel:gasoline_87": "yes",
+        "fuel:octane_85": "no",
+        "fuel:octane_86": "no",
+        "fuel:octane_87": "yes",
+        "fuel:octane_88": "no",
+        "fuel:octane_89": "no",
+        "fuel:octane_90": "yes",
+        "fuel:octane_91": "no",
+        "fuel:octane_92": "no",
+        "fuel:octane_93": "no",
+        "large_vehicles": "yes",
+        "layer": "1",
+        "mobile_reception": "yes",
+        "name": "Marathon",
+        "operator": "Cap'n Joe's",
+        "payment:cards": "yes",
+        "payment:contactless": "yes",
+        "self_service": "yes",
+        "source": "GPS;geolocated photo;aerial imagery",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -146.3478942,
+          61.1311464
+        ]
+      },
+      "id": "way/515427541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/519190492",
+        "addr:city": "Nenana",
+        "addr:state": "AK",
+        "amenity": "fuel",
+        "brand": "Chevron",
+        "brand:wikidata": "Q319642",
+        "building": "roof",
+        "fuel:diesel": "yes",
+        "fuel:e85": "yes",
+        "fuel:gasoline": "yes",
+        "fuel:lpg": "yes",
+        "fuel:octane_85": "no",
+        "fuel:octane_86": "no",
+        "fuel:octane_87": "yes",
+        "fuel:octane_88": "yes",
+        "fuel:octane_89": "no",
+        "fuel:octane_90": "yes",
+        "fuel:octane_91": "no",
+        "fuel:octane_92": "no",
+        "fuel:octane_93": "no",
+        "large_vehicles": "yes",
+        "layer": "1",
+        "mobile_reception": "yes",
+        "name": "Nenana Chevron Fuel Station",
+        "self_service": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.0964071,
+          64.5576366
+        ]
+      },
+      "id": "way/519190492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/542876001",
+        "amenity": "fuel",
+        "name": "Diesel Fuel Tanks",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -177.1997798,
+          51.715773
+        ]
+      },
+      "id": "way/542876001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/549426152",
+        "amenity": "fuel",
+        "description": "http://www.aleutianseast.org/vertical/sites/%7BEBDABE05-9D39-4ED4-98D4-908383A7714A%7D/uploads/%7B5F7E9057-83A3-4DBA-B144-073C3F6461D6%7D.PDF\n",
+        "name": "Frosty Fuels",
+        "operator": "Frosty Fuels",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -162.7165629,
+          55.2005437
+        ]
+      },
+      "id": "way/549426152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/549426438",
+        "amenity": "fuel",
+        "description": "http://www.aleutianseast.org/vertical/sites/%7BEBDABE05-9D39-4ED4-98D4-908383A7714A%7D/uploads/%7B5F7E9057-83A3-4DBA-B144-073C3F6461D6%7D.PDF\n",
+        "name": "Frosty Fuels",
+        "operator": "Frosty Fuels",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -162.7154263,
+          55.2010207
+        ]
+      },
+      "id": "way/549426438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/550759447",
+        "amenity": "fuel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -132.9703078,
+          56.8080435
+        ]
+      },
+      "id": "way/550759447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/601138059",
+        "addr:city": "Wasilla",
+        "addr:housenumber": "3950",
+        "addr:postcode": "99654",
+        "addr:street": "Knik-Goose Bay Road",
+        "amenity": "fuel",
+        "brand": "Shell Gasoline;Shell",
+        "brand:wikidata": "Q154950",
+        "building": "roof",
+        "building:levels": "0",
+        "compressed_air": "yes",
+        "description": "Gas pumps: Regular, Diesel",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "height": "0",
+        "layer": "1",
+        "name": "Shell Gasoline",
+        "opening_hours": "PH,Mo-Su 00:00-12:00+",
+        "smoking": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.5822511,
+          61.5362271
+        ]
+      },
+      "id": "way/601138059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/614559704",
+        "alt_name": "Carrs Safeway",
+        "amenity": "fuel",
+        "building": "roof",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "fuel:octane_85": "no",
+        "fuel:octane_86": "no",
+        "fuel:octane_87": "yes",
+        "fuel:octane_88": "yes",
+        "fuel:octane_89": "no",
+        "fuel:octane_90": "yes",
+        "fuel:octane_91": "no",
+        "fuel:octane_92": "no",
+        "fuel:octane_93": "no",
+        "large_vehicles": "discouraged",
+        "mobile_reception": "yes",
+        "name": "Carrs",
+        "payment:contactless": "no",
+        "self_service": "yes",
+        "source": "EsriWorldImagery",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.1251809,
+          61.5990747
+        ]
+      },
+      "id": "way/614559704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/614579410",
+        "amenity": "fuel",
+        "brand": "Chevron",
+        "building": "roof",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.4516061,
+          61.4081668
+        ]
+      },
+      "id": "way/614579410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/614929177",
+        "amenity": "fuel",
+        "building": "roof",
+        "layer": "1",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.7329415,
+          61.2183412
+        ]
+      },
+      "id": "way/614929177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/616786301",
+        "amenity": "fuel",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.7630145,
+          61.2320098
+        ]
+      },
+      "id": "way/616786301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/616809519",
+        "amenity": "fuel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.6743511,
+          61.2579372
+        ]
+      },
+      "id": "way/616809519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/626801298",
+        "amenity": "fuel",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "building": "roof",
+        "name": "speedway",
+        "source": "EsriWorldImagery",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.3589691,
+          61.5846698
+        ]
+      },
+      "id": "way/626801298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/632028515",
+        "alt_name": "Carrs Safeway",
+        "amenity": "fuel",
+        "brand": "Safeway",
+        "brand:wikidata": "Q1508234",
+        "building": "retail",
+        "name": "Safeway",
+        "source": "EsriWorldImagery",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.1251156,
+          61.5988921
+        ]
+      },
+      "id": "way/632028515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/642001650",
+        "amenity": "fuel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.4924929,
+          58.3499612
+        ]
+      },
+      "id": "way/642001650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/650396186",
+        "addr:city": "Fairbanks",
+        "addr:postcode": "99709",
+        "addr:state": "AK",
+        "addr:street": "Old Chena Pump Road",
+        "amenity": "fuel",
+        "brand": "Tesoro",
+        "brand:wikidata": "Q123414862",
+        "building": "roof",
+        "name": "Tesoro",
+        "source": "Bing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.8687719,
+          64.8471919
+        ]
+      },
+      "id": "way/650396186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/672964335",
+        "amenity": "fuel",
+        "name": "Fuel Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.701809,
+          66.5539751
+        ]
+      },
+      "id": "way/672964335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/672970199",
+        "amenity": "fuel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.6370629,
+          66.5471239
+        ]
+      },
+      "id": "way/672970199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/672977159",
+        "amenity": "fuel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.7433923,
+          68.1358843
+        ]
+      },
+      "id": "way/672977159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/695558834",
+        "amenity": "fuel",
+        "brand": "speedway",
+        "building": "roof",
+        "name": "speedway",
+        "self_service": "yes",
+        "source": "EsriWorldImagery",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.4409519,
+          61.5812339
+        ]
+      },
+      "id": "way/695558834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/695745200",
+        "amenity": "fuel",
+        "building": "commercial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.5344411,
+          61.552305
+        ]
+      },
+      "id": "way/695745200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/708132672",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "building": "yes",
+        "name": "Shell",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.4386707,
+          60.1238185
+        ]
+      },
+      "id": "way/708132672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/708132705",
+        "amenity": "fuel",
+        "building": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_87": "yes",
+        "fuel:octane_89": "yes",
+        "fuel:octane_92": "yes",
+        "name": "Vitus",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.9129627,
+          60.5107998
+        ]
+      },
+      "id": "way/708132705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/712594986",
+        "building": "yes",
+        "shop": "fuel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -162.7157337,
+          55.2010314
+        ]
+      },
+      "id": "way/712594986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/763550582",
+        "amenity": "fuel",
+        "operator": "Holiday"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.8306175,
+          64.8488303
+        ]
+      },
+      "id": "node/763550582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/763984795",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "large_vehicles": "discouraged",
+        "mobile_reception": "yes",
+        "name": "Shell",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.866298,
+          61.2079825
+        ]
+      },
+      "id": "way/763984795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/771743759",
+        "amenity": "fuel",
+        "brand": "Tesoro",
+        "brand:wikidata": "Q123414862",
+        "name": "Tesoro",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.3175944,
+          61.5682446
+        ]
+      },
+      "id": "way/771743759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/772508631",
+        "amenity": "fuel",
+        "building": "roof",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.882361,
+          61.1955817
+        ]
+      },
+      "id": "way/772508631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/779981582",
+        "amenity": "fuel",
+        "compressed_air": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.823967,
+          61.209518
+        ]
+      },
+      "id": "way/779981582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/779986950",
+        "amenity": "fuel",
+        "brand": "Circle K",
+        "brand:wikidata": "Q3268010",
+        "building": "yes",
+        "name": "Circle K",
+        "source": "microsoft/BuildingFootprints",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8076956,
+          61.2084792
+        ]
+      },
+      "id": "way/779986950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/780582378",
+        "amenity": "fuel",
+        "building": "roof",
+        "layer": "1",
+        "source": "microsoft/BuildingFootprints",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8347153,
+          61.1593903
+        ]
+      },
+      "id": "way/780582378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/782129039",
+        "amenity": "fuel",
+        "source": "microsoft/BuildingFootprints",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.7341545,
+          61.203818
+        ]
+      },
+      "id": "way/782129039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/782212931",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "building": "roof",
+        "fuel:diesel": "no",
+        "fuel:gasoline": "yes",
+        "fuel:octane_85": "no",
+        "fuel:octane_86": "no",
+        "fuel:octane_87": "yes",
+        "fuel:octane_88": "no",
+        "fuel:octane_89": "no",
+        "fuel:octane_90": "yes",
+        "fuel:octane_91": "no",
+        "fuel:octane_92": "no",
+        "fuel:octane_93": "no",
+        "large_vehicles": "yes",
+        "mobile_reception": "yes",
+        "name": "Shell",
+        "self_service": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.9057993,
+          61.1982144
+        ]
+      },
+      "id": "way/782212931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/783994926",
+        "amenity": "fuel",
+        "brand": "Holiday",
+        "brand:wikidata": "Q5880490",
+        "building": "yes",
+        "name": "Holiday",
+        "source": "microsoft/BuildingFootprints",
+        "website": "https://www.circlek.com/store-locator/US/anchorage/285-muldoon-rd/2746631",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.7325503,
+          61.2210574
+        ]
+      },
+      "id": "way/783994926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/788688782",
+        "addr:city": "Anchorage",
+        "addr:housenumber": "8803",
+        "addr:postcode": "99502",
+        "addr:state": "AK",
+        "addr:street": "Jewel Lake Road",
+        "amenity": "fuel",
+        "brand": "Holiday",
+        "brand:wikidata": "Q5880490",
+        "building": "yes",
+        "compressed_air": "yes",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:propane": "yes",
+        "name": "Holiday Stationstore",
+        "note": "Holiday also has a small mini-mart",
+        "opening_hours": "24/7",
+        "payment:american_express": "yes",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+1 907-243-5639",
+        "self_service": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "website": "https://holidaystationstores.com/",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.9512974,
+          61.1406285
+        ]
+      },
+      "id": "way/788688782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/791507184",
+        "amenity": "fuel",
+        "building": "roof",
+        "layer": "1",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8916362,
+          61.1548866
+        ]
+      },
+      "id": "way/791507184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/793940094",
+        "amenity": "fuel",
+        "building": "roof",
+        "fuel:adblue": "yes",
+        "fuel:diesel": "yes",
+        "layer": "1",
+        "name": "Essential 1",
+        "source": "microsoft/BuildingFootprints",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8974844,
+          61.1733368
+        ]
+      },
+      "id": "way/793940094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/794854714",
+        "addr:city": "Anchorage",
+        "addr:housenumber": "7211",
+        "addr:postcode": "99502",
+        "addr:state": "AK",
+        "addr:street": "Jewel Lake Road",
+        "amenity": "fuel",
+        "brand": "Tesoro",
+        "compressed_air": "yes",
+        "email": "bigmikesservice@outlook.com",
+        "name": "Big Mike’s Service Tesoro",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+1 907-243-2134",
+        "self_service": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.950928,
+          61.155445
+        ]
+      },
+      "id": "way/794854714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/794854715",
+        "addr:city": "Anchorage",
+        "addr:housenumber": "7211",
+        "addr:postcode": "99502",
+        "addr:state": "AK",
+        "addr:street": "Jewel Lake Road",
+        "amenity": "fuel",
+        "compressed_air": "yes",
+        "name": "Bike Mike's Service",
+        "source": "microsoft/BuildingFootprints",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.95105,
+          61.1553095
+        ]
+      },
+      "id": "way/794854715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/794854716",
+        "amenity": "fuel",
+        "compressed_air": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.951354,
+          61.155295
+        ]
+      },
+      "id": "way/794854716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800812930",
+        "amenity": "fuel",
+        "building": "roof",
+        "layer": "1",
+        "source": "microsoft/BuildingFootprints",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.939527,
+          61.1791089
+        ]
+      },
+      "id": "way/800812930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800823463",
+        "amenity": "fuel",
+        "brand": "Chevron",
+        "brand:wikidata": "Q319642",
+        "building": "roof",
+        "compressed_air": "yes",
+        "fuel:diesel": "yes",
+        "fuel:gasoline_87": "yes",
+        "layer": "1",
+        "name": "Chevron",
+        "operator": "Chevron",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.9136237,
+          61.1871638
+        ]
+      },
+      "id": "way/800823463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/806897509",
+        "amenity": "fuel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.866378,
+          61.2079155
+        ]
+      },
+      "id": "way/806897509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/810896184",
+        "amenity": "fuel",
+        "building": "roof",
+        "layer": "1",
+        "source": "microsoft/BuildingFootprints;EsriWorldImagery",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.567077,
+          61.3297855
+        ]
+      },
+      "id": "way/810896184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/835397927",
+        "addr:city": "Healy",
+        "addr:housenumber": "Mile 248.5",
+        "addr:postcode": "99743",
+        "addr:state": "AK",
+        "addr:street": "George Parks Highway",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "building": "roof",
+        "compressed_air": "yes",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "fuel:octane_85": "no",
+        "fuel:octane_86": "no",
+        "fuel:octane_87": "yes",
+        "fuel:octane_88": "no",
+        "fuel:octane_89": "no",
+        "fuel:octane_90": "yes",
+        "fuel:octane_91": "no",
+        "fuel:octane_92": "no",
+        "fuel:octane_93": "no",
+        "large_vehicles": "yes",
+        "mobile_reception": "yes",
+        "name": "Shell",
+        "opening_hours": "24/7",
+        "payment:contactless": "unknown",
+        "payment:credit_cards": "unknown",
+        "phone": "+1-907-357-4311",
+        "self_service": "yes",
+        "toilets": "no",
+        "website": "https://find.shell.com/us/fuel/12616070-mile-248-5-george-parks-highway/en_US",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.0226913,
+          63.8665858
+        ]
+      },
+      "id": "way/835397927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/887380595",
+        "amenity": "fuel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -133.9238441,
+          56.9629531
+        ]
+      },
+      "id": "way/887380595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/894127209",
+        "addr:city": "Anchorage",
+        "addr:housenumber": "4125",
+        "addr:postcode": "99508",
+        "addr:state": "AK",
+        "addr:street": "DeBarr Road",
+        "amenity": "fuel",
+        "brand": "Costco",
+        "brand:wikidata": "Q715583",
+        "building": "roof",
+        "building:levels": "1",
+        "fixme": "Please add and verify tags:; hours",
+        "fuel:diesel": "unknown",
+        "fuel:gasoline": "yes",
+        "fuel:octane_85": "no",
+        "fuel:octane_86": "no",
+        "fuel:octane_87": "yes",
+        "fuel:octane_88": "no",
+        "fuel:octane_89": "no",
+        "fuel:octane_90": "yes",
+        "fuel:octane_91": "no",
+        "fuel:octane_92": "no",
+        "fuel:octane_93": "no",
+        "large_vehicles": "yes",
+        "mobile_reception": "yes",
+        "name": "Costco Gasoline",
+        "opening_hours": "Mo-Fr 06:00-21:30; Sa-Su 07:00-19:00",
+        "payment:contactless": "unknown",
+        "payment:credit_cards": "unknown",
+        "phone": "+1-907-269-9510",
+        "self_service": "yes",
+        "website": "https://www.costco.com/warehouse-locations/ne-anchorage-anchorage-ak-63.html",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8065356,
+          61.2101203
+        ]
+      },
+      "id": "way/894127209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/894594269",
+        "amenity": "fuel",
+        "name": "Douglas Depot",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.3956337,
+          58.2767062
+        ]
+      },
+      "id": "way/894594269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/900990935",
+        "amenity": "fuel",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.7179963,
+          59.4405591
+        ]
+      },
+      "id": "way/900990935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/902045735",
+        "amenity": "fuel",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.4058767,
+          57.7905543
+        ]
+      },
+      "id": "way/902045735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/923168068",
+        "amenity": "fuel",
+        "brand": "Circle K",
+        "brand:wikidata": "Q3268010",
+        "building": "roof",
+        "name": "Circle K",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.6853002,
+          64.8594559
+        ]
+      },
+      "id": "way/923168068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/925454235",
+        "amenity": "fuel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.8305768,
+          64.848646
+        ]
+      },
+      "id": "way/925454235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/934498139",
+        "amenity": "fuel",
+        "building": "roof",
+        "compressed_air": "no",
+        "name": "Tesoro",
+        "opening_hours": "24/7",
+        "self_service": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.1113406,
+          61.5854097
+        ]
+      },
+      "id": "way/934498139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/934498140",
+        "building": "yes",
+        "name": "Crowley Fuels",
+        "shop": "fuel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.1132017,
+          61.5860697
+        ]
+      },
+      "id": "way/934498140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/934498143",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "building": "roof",
+        "name": "Shell",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.117031,
+          61.607029
+        ]
+      },
+      "id": "way/934498143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/934860207",
+        "addr:city": "City Of Palmer",
+        "addr:housenumber": "400",
+        "addr:state": "AK",
+        "addr:street": "West Glacier View Avenue",
+        "amenity": "fuel",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "building": "roof",
+        "name": "Speedway Express",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.1209037,
+          61.5939034
+        ]
+      },
+      "id": "way/934860207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/945131406",
+        "amenity": "fuel",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "building": "roof",
+        "compressed_air": "yes",
+        "fuel:diesel": "yes",
+        "name": "Speedway Express",
+        "operator": "Tesoro",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.8122348,
+          64.855475
+        ]
+      },
+      "id": "way/945131406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/956907019",
+        "amenity": "fuel",
+        "brand": "Holiday",
+        "brand:wikidata": "Q5880490",
+        "building": "roof",
+        "compressed_air": "yes",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "name": "Holiday",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.6360236,
+          61.5830738
+        ]
+      },
+      "id": "way/956907019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/956907020",
+        "amenity": "fuel",
+        "brand": "Holiday",
+        "brand:wikidata": "Q5880490",
+        "building": "roof",
+        "name": "Holiday",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.6374158,
+          61.5831469
+        ]
+      },
+      "id": "way/956907020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/962341701",
+        "addr:city": "Anchorage",
+        "addr:housenumber": "330",
+        "addr:postcode": "99515",
+        "addr:state": "AK",
+        "addr:street": "West Dimond Boulevard",
+        "amenity": "fuel",
+        "brand": "Costco Gasoline",
+        "brand:wikidata": "Q715583",
+        "building": "roof",
+        "compressed_air": "no",
+        "fixme": "Please add and verify tags: hours",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "fuel:octane_85": "no",
+        "fuel:octane_86": "no",
+        "fuel:octane_87": "yes",
+        "fuel:octane_88": "no",
+        "fuel:octane_89": "no",
+        "fuel:octane_90": "yes",
+        "fuel:octane_91": "no",
+        "fuel:octane_92": "no",
+        "fuel:octane_93": "no",
+        "large_vehicles": "yes",
+        "layer": "1",
+        "mobile_reception": "yes",
+        "name": "Costco Gasoline",
+        "opening_hours": "Mo-Fr 06:00-21:30; Sa,Su 07:00-19:00",
+        "payment:contactless": "unknown",
+        "payment:credit_cards": "yes",
+        "payment:visa": "yes",
+        "phone": "+1-907-349-2335",
+        "self_service": "yes",
+        "website": "https://www.costco.com/warehouse-locations/anchorage-ak-10.html",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8816131,
+          61.1443612
+        ]
+      },
+      "id": "way/962341701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/968722150",
+        "addr:city": "Anchorage",
+        "addr:housenumber": "9150",
+        "addr:postcode": "99518",
+        "addr:state": "AK",
+        "addr:street": "Northwood Street",
+        "amenity": "fuel",
+        "brand": "Fred Meyer",
+        "brand:wikidata": "Q5495932",
+        "compressed_air": "yes",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "fuel:petrol": "yes",
+        "mobile_reception": "yes",
+        "name": "Fred Meyer Gas Station",
+        "opening_hours": "PH,Mo-Su 00:00-24:00+",
+        "operator": "Fred Meyer",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "self_service": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.9230212,
+          61.1379899
+        ]
+      },
+      "id": "way/968722150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/970212894",
+        "amenity": "fuel",
+        "building": "roof",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.3800104,
+          61.5845779
+        ]
+      },
+      "id": "way/970212894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1000639671",
+        "addr:city": "Saxman",
+        "addr:housenumber": "2852",
+        "addr:state": "AK",
+        "addr:street": "South Tongass Highway",
+        "amenity": "fuel",
+        "building": "yes",
+        "name": "South Tongass Services",
+        "self_service": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -131.5939476,
+          55.3167034
+        ]
+      },
+      "id": "way/1000639671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1002139549",
+        "addr:city": "Wasilla",
+        "addr:housenumber": "2191",
+        "addr:postcode": "99654",
+        "addr:state": "AK",
+        "addr:street": "East Sun Mountain Avenue",
+        "amenity": "fuel",
+        "brand": "Fred Meyer",
+        "brand:wikidata": "Q5495932",
+        "building": "roof",
+        "name": "Fred Meyer",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.3957665,
+          61.574122
+        ]
+      },
+      "id": "way/1002139549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1010378803",
+        "addr:city": "Prudhoe Bay",
+        "addr:postcode": "99734",
+        "addr:state": "AK",
+        "amenity": "fuel",
+        "building": "yes",
+        "fuel:diesel": "yes",
+        "fuel:unleaded": "yes",
+        "lit": "yes",
+        "name": "Colville Gas Station",
+        "phone": "+1 907-659-3198",
+        "website": "https://www.colvilleinc.com/services/fuel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.4011298,
+          70.2160819
+        ]
+      },
+      "id": "way/1010378803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1011881548",
+        "amenity": "fuel",
+        "name": "Douglas Depot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.3955694,
+          58.276798
+        ]
+      },
+      "id": "node/1011881548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1021318672",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "building": "roof",
+        "fuel:diesel": "yes",
+        "fuel:gasoline_87": "yes",
+        "name": "Shell",
+        "source": "geolocated photo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8124239,
+          61.630785
+        ]
+      },
+      "id": "way/1021318672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1021318674",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "building": "roof",
+        "fuel:diesel": "yes",
+        "name": "Shell",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8116628,
+          61.6310842
+        ]
+      },
+      "id": "way/1021318674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1023525533",
+        "amenity": "fuel",
+        "building": "roof",
+        "source": "EsriWorldImagery",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.3292264,
+          61.612526
+        ]
+      },
+      "id": "way/1023525533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1029513425",
+        "amenity": "fuel",
+        "building": "roof",
+        "layer": "1",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.1908443,
+          61.6335263
+        ]
+      },
+      "id": "way/1029513425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1032698159",
+        "amenity": "fuel",
+        "building": "roof",
+        "fuel:diesel": "yes",
+        "fuel:octane_87": "yes",
+        "layer": "1",
+        "name": "Crowley Fuels",
+        "opening_hours": "24/7",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.0778323,
+          62.2726235
+        ]
+      },
+      "id": "way/1032698159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1046723827",
+        "amenity": "fuel",
+        "automated": "yes",
+        "brand": "Tesoro",
+        "brand:wikidata": "Q123414862",
+        "building": "roof",
+        "fuel:diesel": "yes",
+        "fuel:gasoline_87": "yes",
+        "fuel:gasoline_91": "yes",
+        "fuel:gasoline_93": "yes",
+        "layer": "1",
+        "name": "Tesoro",
+        "operator": "Tesoro Alaska",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "source": "GPS;geolocated photo;aerial imagery",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.0685451,
+          60.4947007
+        ]
+      },
+      "id": "way/1046723827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1057805730",
+        "amenity": "fuel",
+        "landuse": "retail",
+        "name": "Shoreside Petroleum",
+        "self_service": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.6937565,
+          60.7772427
+        ]
+      },
+      "id": "way/1057805730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1058337213",
+        "amenity": "fuel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -144.06652,
+          65.8249038
+        ]
+      },
+      "id": "way/1058337213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1082779236",
+        "amenity": "fuel",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -164.5223238,
+          62.7753422
+        ]
+      },
+      "id": "way/1082779236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1090311206",
+        "addr:city": "Girdwood",
+        "addr:housenumber": "36511",
+        "addr:state": "AK",
+        "addr:street": "Seward Highway",
+        "amenity": "fuel",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "building": "roof",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "fuel:lpg": "yes",
+        "fuel:octane_85": "no",
+        "fuel:octane_86": "no",
+        "fuel:octane_87": "yes",
+        "fuel:octane_88": "no",
+        "fuel:octane_89": "no",
+        "fuel:octane_90": "yes",
+        "fuel:octane_91": "no",
+        "fuel:octane_92": "no",
+        "fuel:octane_93": "no",
+        "large_vehicles": "yes",
+        "layer": "1",
+        "mobile_reception": "yes",
+        "name": "Speedway Express",
+        "payment:cards": "yes",
+        "payment:contactless": "yes",
+        "self_service": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.171533,
+          60.9403196
+        ]
+      },
+      "id": "way/1090311206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1090311207",
+        "addr:city": "Girdwood",
+        "addr:housenumber": "36511",
+        "addr:state": "AK",
+        "addr:street": "Seward Highway",
+        "amenity": "fuel",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "building": "roof",
+        "fuel:diesel": "no",
+        "fuel:gasoline": "yes",
+        "fuel:octane_85": "no",
+        "fuel:octane_86": "no",
+        "fuel:octane_87": "yes",
+        "fuel:octane_88": "no",
+        "fuel:octane_89": "no",
+        "fuel:octane_90": "yes",
+        "fuel:octane_91": "no",
+        "fuel:octane_92": "no",
+        "fuel:octane_93": "no",
+        "large_vehicles": "yes",
+        "layer": "1",
+        "mobile_reception": "yes",
+        "name": "Speedway Express",
+        "payment:cards": "yes",
+        "payment:contactless": "yes",
+        "self_service": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.1721481,
+          60.9404377
+        ]
+      },
+      "id": "way/1090311207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1131767891",
+        "addr:city": "Palmer",
+        "addr:housenumber": "3068",
+        "addr:postcode": "99645",
+        "addr:state": "AK",
+        "addr:street": "South Trunk Road",
+        "amenity": "fuel",
+        "brand": "Marathon",
+        "brand:wikidata": "Q458363",
+        "building": "roof",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "name": "Marathon",
+        "self_service": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.2733187,
+          61.5580211
+        ]
+      },
+      "id": "way/1131767891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1131767892",
+        "amenity": "fuel",
+        "building": "storage_tank",
+        "fuel:propane": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.2729703,
+          61.557806
+        ]
+      },
+      "id": "way/1131767892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1137752176",
+        "amenity": "fuel",
+        "brand": "Shell Gasoline;Shell",
+        "building": "roof",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.422027,
+          61.5738877
+        ]
+      },
+      "id": "way/1137752176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1160245574",
+        "addr:city": "Anchorage",
+        "addr:housenumber": "1092",
+        "addr:postcode": "99515",
+        "addr:state": "AK",
+        "addr:street": "O'Malley Centre Court",
+        "amenity": "fuel",
+        "brand": "Chevron",
+        "brand:wikidata": "Q319642",
+        "building": "yes",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "name": "Chevron Denali Express",
+        "phone": "+1-907-929-2291",
+        "website": "https://www.denaliexpress.com/stores",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8622717,
+          61.1206144
+        ]
+      },
+      "id": "way/1160245574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1177112612",
+        "amenity": "fuel",
+        "building": "roof",
+        "layer": "1",
+        "name": "Bristol Express",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.4679372,
+          59.0404417
+        ]
+      },
+      "id": "way/1177112612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1180766574",
+        "amenity": "fuel",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "building": "roof",
+        "layer": "1",
+        "name": "Speedway Express",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.2503962,
+          60.5551576
+        ]
+      },
+      "id": "way/1180766574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1180989503",
+        "amenity": "fuel",
+        "brand": "Chevron",
+        "brand:wikidata": "Q319642",
+        "building": "roof",
+        "name": "Chevron",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.2514574,
+          60.5552136
+        ]
+      },
+      "id": "way/1180989503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1180989504",
+        "amenity": "fuel",
+        "brand": "Chevron",
+        "brand:wikidata": "Q319642",
+        "building": "roof",
+        "name": "Chevron",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.2517621,
+          60.5550327
+        ]
+      },
+      "id": "way/1180989504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1186323357",
+        "addr:city": "Glennallen",
+        "addr:housenumber": "128",
+        "addr:postcode": "99588",
+        "addr:state": "AK",
+        "addr:street": "Glenn Highway",
+        "amenity": "fuel",
+        "brand": "Tesoro",
+        "brand:wikidata": "Q123414862",
+        "building": "roof",
+        "compressed_air": "yes",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "fuel:gasoline_87": "yes",
+        "layer": "1",
+        "name": "Eureka Lodge Tesoro",
+        "operator": "Tesoro Alaska",
+        "payment:cash": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "phone": "+1-907-822-3463",
+        "source": "GPS;geolocated photo;aerial imagery",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.1724428,
+          61.9380111
+        ]
+      },
+      "id": "way/1186323357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1206497024",
+        "amenity": "fuel",
+        "barrier": "fence",
+        "landuse": "industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.1693982,
+          55.8984705
+        ]
+      },
+      "id": "way/1206497024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1219371411",
+        "amenity": "fuel",
+        "name": "Point Hope Gas Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -166.7403072,
+          68.3472912
+        ]
+      },
+      "id": "way/1219371411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1228565192",
+        "amenity": "fuel",
+        "building": "yes",
+        "name": "Bettles Lodge Fuel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.5184809,
+          66.9187179
+        ]
+      },
+      "id": "way/1228565192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1271885123",
+        "addr:city": "Cantwell",
+        "addr:housenumber": "Mile 210.4",
+        "addr:postcode": "99729",
+        "addr:state": "AK",
+        "addr:street": "George Parks Highway",
+        "amenity": "fuel",
+        "brand": "Vitus",
+        "building": "roof",
+        "fixme": "Need telephone and hours",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "fuel:gasoline_87": "yes",
+        "fuel:octane_85": "no",
+        "fuel:octane_86": "no",
+        "fuel:octane_87": "yes",
+        "fuel:octane_88": "no",
+        "fuel:octane_89": "no",
+        "fuel:octane_90": "yes",
+        "fuel:octane_91": "no",
+        "fuel:octane_92": "no",
+        "fuel:octane_93": "no",
+        "large_vehicles": "yes",
+        "layer": "1",
+        "mobile_reception": "yes",
+        "name": "Vitus",
+        "opening_hours": "24/7",
+        "payment:cards": "yes",
+        "payment:contactless": "no",
+        "phone": "+1-907-768-1168",
+        "self_service": "yes",
+        "source": "GPS;geolocated photo;aerial imagery",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.8928996,
+          63.3953307
+        ]
+      },
+      "id": "way/1271885123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1286891922",
+        "amenity": "fuel",
+        "diesel": "yes",
+        "name": "Petersburg Motors"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -132.9545511,
+          56.811196
+        ]
+      },
+      "id": "node/1286891922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1286891968",
+        "amenity": "fuel",
+        "diesel": "yes",
+        "name": "S.E. Island Fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -132.970242,
+          56.8079716
+        ]
+      },
+      "id": "node/1286891968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1293984063",
+        "amenity": "fuel",
+        "diesel": "yes",
+        "operator": "Petro Marine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -132.9712058,
+          56.810047
+        ]
+      },
+      "id": "node/1293984063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1302613006",
+        "amenity": "fuel",
+        "building": "roof",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "fuel:lpg": "yes",
+        "fuel:octane_85": "no",
+        "fuel:octane_86": "no",
+        "fuel:octane_87": "yes",
+        "fuel:octane_88": "no",
+        "fuel:octane_89": "no",
+        "fuel:octane_90": "no",
+        "fuel:octane_91": "no",
+        "fuel:octane_92": "no",
+        "fuel:octane_93": "no",
+        "large_vehicles": "yes",
+        "mobile_reception": "yes",
+        "name": "Riverview Quick Stop",
+        "opening_hours": "24/7",
+        "payment:cards": "yes",
+        "self_service": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.5169011,
+          64.8325301
+        ]
+      },
+      "id": "way/1302613006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1302792500",
+        "addr:city": "North Pole",
+        "addr:housenumber": "751",
+        "addr:postcode": "99705",
+        "addr:state": "AK",
+        "addr:street": "Badger Road",
+        "amenity": "fuel",
+        "brand": "Tesoro",
+        "brand:wikidata": "Q123414862",
+        "building": "roof",
+        "compressed_air": "unknown",
+        "fixme": "Please add and verify tags: fuel:octane_XX; hours; phone; website",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "fuel:octane_85": "no",
+        "fuel:octane_86": "no",
+        "fuel:octane_87": "yes",
+        "fuel:octane_88": "yes",
+        "fuel:octane_89": "no",
+        "fuel:octane_90": "yes",
+        "fuel:octane_91": "no",
+        "fuel:octane_92": "no",
+        "fuel:octane_93": "no",
+        "large_vehicles": "yes",
+        "mobile_reception": "yes",
+        "name": "Badger Road Tesoro",
+        "opening_hours": "unknown",
+        "payment:cards": "yes",
+        "payment:contactless": "unknown",
+        "payment:credit_cards": "unknown",
+        "phone": "+1-907-488-9174",
+        "self_service": "yes",
+        "website": "unknown",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.5680191,
+          64.8168595
+        ]
+      },
+      "id": "way/1302792500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1305514529",
+        "addr:city": "Healy",
+        "addr:housenumber": "248.5",
+        "addr:postcode": "99743",
+        "addr:state": "AK",
+        "addr:street": "George Parks Highway",
+        "amenity": "fuel",
+        "brand": "Virus",
+        "building": "roof",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "fuel:gasoline_87": "yes",
+        "fuel:lpg": "yes",
+        "fuel:octane_85": "no",
+        "fuel:octane_86": "no",
+        "fuel:octane_87": "yes",
+        "fuel:octane_88": "no",
+        "fuel:octane_89": "no",
+        "fuel:octane_90": "yes",
+        "fuel:octane_91": "no",
+        "fuel:octane_92": "no",
+        "fuel:octane_93": "no",
+        "large_vehicles": "yes",
+        "mobile_reception": "yes",
+        "name": "Vitus",
+        "operator": "Virus",
+        "payment:cards": "yes",
+        "payment:contactless": "no",
+        "payment:credit_cards": "yes",
+        "self_service": "yes",
+        "source": "GPS;geolocated photo;aerial imagery",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.0184577,
+          63.8653394
+        ]
+      },
+      "id": "way/1305514529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1305515745",
+        "addr:city": "Healy",
+        "addr:postcode": "99743",
+        "addr:state": "AK",
+        "addr:street": "George Parks Highway",
+        "amenity": "fuel",
+        "brand": "Tesoro",
+        "brand:wikidata": "Q123414862",
+        "building": "roof",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "fuel:gasoline_87": "yes",
+        "fuel:octane_85": "no",
+        "fuel:octane_86": "no",
+        "fuel:octane_87": "yes",
+        "fuel:octane_88": "no",
+        "fuel:octane_89": "no",
+        "fuel:octane_90": "yes",
+        "fuel:octane_91": "no",
+        "fuel:octane_92": "no",
+        "fuel:octane_93": "no",
+        "large_vehicles": "yes",
+        "mobile_reception": "yes",
+        "name": "Tesoro",
+        "opening_hours": "24/7",
+        "operator": "Tesoro Corporation",
+        "source": "GPS;geolocated photo;aerial imagery",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.0192464,
+          63.8759914
+        ]
+      },
+      "id": "way/1305515745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1306965054",
+        "amenity": "fuel",
+        "brand": "Essential One",
+        "building": "roof",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "fuel:octane_85": "no",
+        "fuel:octane_86": "no",
+        "fuel:octane_87": "yes",
+        "fuel:octane_88": "no",
+        "fuel:octane_89": "no",
+        "fuel:octane_90": "yes",
+        "fuel:octane_91": "no",
+        "fuel:octane_92": "no",
+        "fuel:octane_93": "no",
+        "large_vehicles": "yes",
+        "layer": "1",
+        "mobile_reception": "yes",
+        "name": "Essential One",
+        "payment:contactless": "no",
+        "self_service": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.4376831,
+          60.1248241
+        ]
+      },
+      "id": "way/1306965054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1308897758",
+        "building": "yes",
+        "shop": "fuel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -161.177319,
+          56.006636
+        ]
+      },
+      "id": "way/1308897758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314691144",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "fuel:octane_85": "no",
+        "fuel:octane_86": "no",
+        "fuel:octane_87": "yes",
+        "fuel:octane_88": "no",
+        "fuel:octane_89": "no",
+        "fuel:octane_90": "yes",
+        "fuel:octane_91": "no",
+        "fuel:octane_92": "no",
+        "fuel:octane_93": "no",
+        "large_vehicles": "yes",
+        "mobile_reception": "yes",
+        "name": "Vitus",
+        "opening_hours": "24/7",
+        "payment:contactless": "no",
+        "self_service": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -142.960538,
+          63.3333965
+        ]
+      },
+      "id": "way/1314691144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1322644703",
+        "addr:city": "Fairbanks",
+        "addr:housenumber": "4480",
+        "addr:postcode": "99709",
+        "addr:state": "AK",
+        "addr:street": "Dale Road",
+        "amenity": "fuel",
+        "building": "roof",
+        "name": "Airport Gas & Oil",
+        "phone": "+1-907-474-3846",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.8542997,
+          64.8272216
+        ]
+      },
+      "id": "way/1322644703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1323087276",
+        "addr:city": "Mekoryuk",
+        "addr:housenumber": "43",
+        "addr:postcode": "99630",
+        "addr:state": "AK",
+        "addr:street": "Chase Road",
+        "amenity": "fuel",
+        "name": "Nima Store Gas Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -166.1876636,
+          60.3887888
+        ]
+      },
+      "id": "way/1323087276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1331527148",
+        "amenity": "fuel",
+        "brand": "Gwitchyaa Zhee Corporation",
+        "building": "yes",
+        "name": "GZ Fuel Store",
+        "operator": "Gwitchyaa Zhee Corporation",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.2551475,
+          66.5667435
+        ]
+      },
+      "id": "way/1331527148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1340213864",
+        "building": "yes",
+        "name": "Nikolski Fuel",
+        "shop": "fuel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -168.8608097,
+          52.9396825
+        ]
+      },
+      "id": "way/1340213864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1348515075",
+        "amenity": "fuel",
+        "name": "Harbor Fuel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -162.3266867,
+          55.0563348
+        ]
+      },
+      "id": "way/1348515075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1379025793",
+        "amenity": "fuel",
+        "fuel:lpg": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.1869646,
+          64.2565033
+        ]
+      },
+      "id": "node/1379025793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1388137557",
+        "amenity": "fuel",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.9549686,
+          61.8023242
+        ]
+      },
+      "id": "way/1388137557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1428909074",
+        "amenity": "fuel",
+        "brand": "Circle K",
+        "brand:wikidata": "Q3268010",
+        "building": "roof",
+        "name": "Circle K",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.7806147,
+          64.8470996
+        ]
+      },
+      "id": "way/1428909074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1428909075",
+        "amenity": "fuel",
+        "brand": "Circle K",
+        "brand:wikidata": "Q3268010",
+        "building": "roof",
+        "layer": "1",
+        "name": "Circle K",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.7815232,
+          64.847386
+        ]
+      },
+      "id": "way/1428909075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1443796015",
+        "addr:city": "Quinhagak",
+        "addr:postcode": "99655",
+        "addr:state": "AK",
+        "name": "Quinhagak Fuel West",
+        "shop": "fuel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -161.917818,
+          59.7454032
+        ]
+      },
+      "id": "way/1443796015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1443796016",
+        "addr:city": "Quinhagak",
+        "addr:postcode": "99655",
+        "addr:state": "AK",
+        "name": "Quinhagak Fuel West",
+        "shop": "fuel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -161.917173,
+          59.7453306
+        ]
+      },
+      "id": "way/1443796016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1456982085",
+        "amenity": "fuel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8048104,
+          61.1796709
+        ]
+      },
+      "id": "way/1456982085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1460752355",
+        "amenity": "fuel",
+        "building": "roof",
+        "layer": "1",
+        "source": "Bing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.7095488,
+          64.8133885
+        ]
+      },
+      "id": "way/1460752355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1461479771",
+        "amenity": "fuel",
+        "brand": "Tesoro",
+        "brand:wikidata": "Q123414862",
+        "building": "roof",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "large_vehicles": "yes",
+        "layer": "1",
+        "mobile_reception": "yes",
+        "name": "Tesoro",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.0430075,
+          61.7392601
+        ]
+      },
+      "id": "way/1461479771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1461496927",
+        "addr:housenumber": "2811",
+        "addr:postcode": "99503",
+        "addr:street": "Seward Highway",
+        "amenity": "fuel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8672326,
+          61.1948472
+        ]
+      },
+      "id": "way/1461496927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1461510711",
+        "amenity": "fuel",
+        "building": "roof",
+        "layer": "1",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8684725,
+          61.1661145
+        ]
+      },
+      "id": "way/1461510711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1461521376",
+        "amenity": "fuel",
+        "building": "roof",
+        "layer": "1",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.3687382,
+          60.6643519
+        ]
+      },
+      "id": "way/1461521376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1544706771",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "building": "roof",
+        "name": "Shell",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.3109974,
+          64.7406333
+        ]
+      },
+      "id": "way/1544706771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1550200204",
+        "amenity": "fuel",
+        "building": "roof",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.0224411,
+          63.8673905
+        ]
+      },
+      "id": "way/1550200204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1568673925",
+        "amenity": "fuel",
+        "name": "AAFES Gas Station",
+        "self_service": "yes",
+        "website": "https://www.shopmyexchange.com/exchange-stores/United%20States/AK/JBER/JB-Elmendorf-Richardson--1067400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.846566,
+          61.2370812
+        ]
+      },
+      "id": "node/1568673925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1724811963",
+        "amenity": "fuel",
+        "automated": "yes",
+        "brand": "Chevron",
+        "brand:wikidata": "Q319642",
+        "fuel:diesel": "yes",
+        "fuel:gasoline_87": "yes",
+        "fuel:gasoline_90": "yes",
+        "name": "Chevron",
+        "opening_hours": "24/7",
+        "operator": "Petro Marine Services",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:visa": "yes",
+        "source": "GPS, personal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.5376855,
+          59.6425131
+        ]
+      },
+      "id": "node/1724811963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1724811997",
+        "amenity": "fuel",
+        "automated": "yes",
+        "brand": "Tesoro",
+        "brand:wikidata": "Q123414862",
+        "fuel:diesel": "yes",
+        "fuel:gasoline_87": "yes",
+        "fuel:gasoline_91": "yes",
+        "fuel:gasoline_93": "yes",
+        "name": "Baycrest Fuel & Store",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.6387954,
+          59.6580507
+        ]
+      },
+      "id": "node/1724811997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2058173717",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.44458,
+          59.2378354
+        ]
+      },
+      "id": "node/2058173717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2058194642",
+        "amenity": "fuel",
+        "check_date": "2026-07-10",
+        "fuel:diesel": "yes",
+        "fuel:octane_89": "yes",
+        "name": "Delta Western",
+        "payment:cash": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.463908,
+          59.2356403
+        ]
+      },
+      "id": "node/2058194642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2058194645",
+        "amenity": "fuel",
+        "check_date": "2026-07-10",
+        "name": "Hains Industrial Supply"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.4664078,
+          59.2352836
+        ]
+      },
+      "id": "node/2058194645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2058220090",
+        "amenity": "fuel",
+        "check_date": "2026-07-10",
+        "fuel:diesel": "yes",
+        "fuel:unleaded": "yes",
+        "name": "33 Mile Roadhouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -136.178421,
+          59.4310941
+        ]
+      },
+      "id": "node/2058220090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2199956815",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.4058012,
+          57.7905591
+        ]
+      },
+      "id": "node/2199956815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2305717070",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.2614712,
+          60.3180827
+        ]
+      },
+      "id": "node/2305717070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2315373598",
+        "amenity": "fuel",
+        "name": "Adak Petroleum",
+        "operator": "City of Adak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -176.6551375,
+          51.853324
+        ]
+      },
+      "id": "node/2315373598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2321196320",
+        "amenity": "fuel",
+        "name": "Thurmond's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.8325956,
+          59.7785183
+        ]
+      },
+      "id": "node/2321196320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2326002157",
+        "amenity": "fuel",
+        "automated": "yes",
+        "fuel:gasoline_87": "yes",
+        "name": "Home Run Oil",
+        "operator": "Home Run Oil",
+        "payment:credit_cards": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.4625685,
+          59.6648118
+        ]
+      },
+      "id": "node/2326002157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2330049559",
+        "amenity": "fuel",
+        "automated": "yes",
+        "brand": "Tesoro",
+        "brand:wikidata": "Q123414862",
+        "fuel:gasoline_87": "yes",
+        "fuel:gasoline_91": "yes",
+        "name": "Tesoro",
+        "operator": "Tesoro Corporation",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "source": "GPS;geolocated photo;aerial imagery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.3395435,
+          59.7102635
+        ]
+      },
+      "id": "node/2330049559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2610356687",
+        "amenity": "fuel",
+        "name": "Last Chance Gas",
+        "source": "DCRA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -133.1299718,
+          56.1207344
+        ]
+      },
+      "id": "node/2610356687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2703582422",
+        "amenity": "fuel",
+        "operator": "Tesoro Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.2433493,
+          60.5644771
+        ]
+      },
+      "id": "node/2703582422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2705169387",
+        "amenity": "fuel",
+        "operator": "Sunrise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.7327086,
+          60.4855589
+        ]
+      },
+      "id": "node/2705169387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2981497784",
+        "amenity": "fuel",
+        "brand": "Tesoro",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "large_vehicles": "yes",
+        "laundry": "yes",
+        "mobile_reception": "yes",
+        "operator": "Tesoro",
+        "shower": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.935143,
+          61.7085602
+        ]
+      },
+      "id": "node/2981497784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2986124142",
+        "amenity": "fuel",
+        "fuel:propane": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.5169242,
+          62.5291349
+        ]
+      },
+      "id": "node/2986124142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2986124144",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.5170271,
+          62.5292118
+        ]
+      },
+      "id": "node/2986124144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2986196600",
+        "amenity": "fuel",
+        "brand": "Tesoro",
+        "fuel:diesel": "yes",
+        "fuel:octane_87": "yes",
+        "operator": "Tesoro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.4966031,
+          62.8174011
+        ]
+      },
+      "id": "node/2986196600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2995293798",
+        "amenity": "fuel",
+        "brand": "Tesoro",
+        "fuel:diesel": "yes",
+        "fuel:gasoline_87": "yes",
+        "fuel:gasoline_91": "yes",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "operator": "Tesoro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.6757053,
+          60.0394267
+        ]
+      },
+      "id": "node/2995293798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2998830915",
+        "addr:city": "Trapper Creek",
+        "addr:housenumber": "114.6",
+        "addr:postcode": "99683",
+        "addr:state": "AK",
+        "addr:street": "George Parks Highway",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "compressed_air": "yes",
+        "name": "Shell",
+        "operator": "Tesoro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.232125,
+          62.3143417
+        ]
+      },
+      "id": "node/2998830915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2998831112",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.2376915,
+          62.3257111
+        ]
+      },
+      "id": "node/2998831112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3008469077",
+        "amenity": "fuel",
+        "brand": "Marathon",
+        "brand:wikidata": "Q458363",
+        "fuel:diesel": "yes",
+        "fuel:gasoline_87": "yes",
+        "name": "Marathon",
+        "source": "GPS;geolocated photo;aerial imagery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.0393734,
+          61.731105
+        ]
+      },
+      "id": "node/3008469077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3008665957",
+        "amenity": "fuel",
+        "brand": "Tesoro",
+        "fuel:diesel": "yes",
+        "name": "Fisher's Fuel, Inc.",
+        "operator": "Tesoro",
+        "source": "GPS;geolocated photo;aerial imagery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.7067624,
+          61.5686276
+        ]
+      },
+      "id": "node/3008665957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3008710091",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.6039639,
+          61.5809035
+        ]
+      },
+      "id": "node/3008710091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3011807038",
+        "amenity": "fuel",
+        "brand": "Tesoro",
+        "fuel:diesel": "yes",
+        "fuel:gasoline_87": "yes",
+        "operator": "Tesoro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.7443983,
+          60.5353553
+        ]
+      },
+      "id": "node/3011807038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3143086245",
+        "amenity": "fuel",
+        "name": "Tesoro Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.4239052,
+          58.3016386
+        ]
+      },
+      "id": "node/3143086245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3143086250",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.4209116,
+          58.3007709
+        ]
+      },
+      "id": "node/3143086250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3331029616",
+        "amenity": "fuel",
+        "name": "Tesoro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.7146801,
+          64.8537678
+        ]
+      },
+      "id": "node/3331029616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3331281443",
+        "amenity": "fuel",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.7112977,
+          64.8259444
+        ]
+      },
+      "id": "node/3331281443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3331281474",
+        "amenity": "fuel",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.7137278,
+          64.8257482
+        ]
+      },
+      "id": "node/3331281474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3331281478",
+        "addr:city": "Fairbanks",
+        "addr:housenumber": "1688",
+        "addr:postcode": "99701",
+        "addr:state": "AK",
+        "addr:street": "Airport Way",
+        "amenity": "fuel",
+        "name": "Sourdough Fuel",
+        "source": "Bing",
+        "website": "https://www.sourdoughfuelstores.com/store-locator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.7505063,
+          64.8371392
+        ]
+      },
+      "id": "node/3331281478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3331281485",
+        "amenity": "fuel",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.713937,
+          64.8255223
+        ]
+      },
+      "id": "node/3331281485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3562711593",
+        "amenity": "fuel",
+        "automated": "yes",
+        "brand": "Tesoro",
+        "fuel:diesel": "yes",
+        "fuel:gasoline_87": "yes",
+        "name": "Petro Express",
+        "operator": "Tesoro",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.8332761,
+          59.7836814
+        ]
+      },
+      "id": "node/3562711593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3567709652",
+        "amenity": "fuel",
+        "automated": "yes",
+        "name": "TJ Seggy's",
+        "operator": "Tesoro Alaska",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.1656208,
+          60.403948
+        ]
+      },
+      "id": "node/3567709652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3591309705",
+        "amenity": "fuel",
+        "brand": "Chevron",
+        "brand:wikidata": "Q319642",
+        "compressed_air": "yes",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "fuel:octane_85": "no",
+        "fuel:octane_86": "no",
+        "fuel:octane_87": "yes",
+        "fuel:octane_88": "yes",
+        "fuel:octane_89": "no",
+        "fuel:octane_90": "yes",
+        "fuel:octane_91": "no",
+        "fuel:octane_92": "no",
+        "fuel:octane_93": "no",
+        "large_vehicles": "yes",
+        "mobile_reception": "yes",
+        "name": "Chevron",
+        "operator": "Chevron",
+        "payment:cards": "yes",
+        "payment:contactless": "no",
+        "self_service": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.982185,
+          60.5012459
+        ]
+      },
+      "id": "node/3591309705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3593503576",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:gasoline_87": "yes",
+        "name": "Grizzly Ridge",
+        "operator": "independent",
+        "payment:cash": "no",
+        "payment:credit_cards": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8261166,
+          60.4900881
+        ]
+      },
+      "id": "node/3593503576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3712124225",
+        "amenity": "fuel",
+        "brand": "Tesoro",
+        "brand:wikidata": "Q123414862",
+        "name": "Gold Hill",
+        "operator": "Tesoro Corporation",
+        "source": "GPS;geolocated photo;aerial imagery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.9512744,
+          64.8468844
+        ]
+      },
+      "id": "node/3712124225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3721014533",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.762206,
+          71.3016244
+        ]
+      },
+      "id": "node/3721014533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3721787731",
+        "amenity": "fuel",
+        "name": "Sourdough Fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.6739738,
+          64.8692189
+        ]
+      },
+      "id": "node/3721787731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4105387190",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:gasoline_87": "yes",
+        "name": "Silver Fox Roadhouse",
+        "opening_hours": "24/7",
+        "source": "GPS;geolocated photo;aerial imagery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.2402846,
+          63.9018178
+        ]
+      },
+      "id": "node/4105387190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4182763116",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "fuel:octane_87": "yes",
+        "large_vehicles": "yes",
+        "mobile_reception": "yes",
+        "name": "Shell",
+        "self_service": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -142.963962,
+          63.3337059
+        ]
+      },
+      "id": "node/4182763116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4204943892",
+        "amenity": "fuel",
+        "name": "Chevron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.4412503,
+          60.1188239
+        ]
+      },
+      "id": "node/4204943892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4419654638",
+        "amenity": "fuel",
+        "name": "Express",
+        "operator": "AAFES",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.0910649,
+          64.6774508
+        ]
+      },
+      "id": "node/4419654638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4500072272",
+        "amenity": "fuel",
+        "fuel:lpg": "yes",
+        "large_vehicles": "yes",
+        "mobile_reception": "yes",
+        "name": "Wenger's Country Store",
+        "shop": "gas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -144.8794134,
+          61.7074677
+        ]
+      },
+      "id": "node/4500072272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4519976317",
+        "amenity": "fuel",
+        "brand": "Tesoro",
+        "name": "Tesoro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -143.6793554,
+          62.8886699
+        ]
+      },
+      "id": "node/4519976317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4726331558",
+        "amenity": "fuel",
+        "name": "Tapraq Fuel Company"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -162.2877034,
+          63.5219139
+        ]
+      },
+      "id": "node/4726331558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4775873670",
+        "amenity": "fuel",
+        "name": "Corner Gas Station",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.3186176,
+          59.4562106
+        ]
+      },
+      "id": "node/4775873670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4937638010",
+        "amenity": "fuel",
+        "brand": "Tesoro",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "fuel:octane_85": "no",
+        "fuel:octane_86": "no",
+        "fuel:octane_87": "yes",
+        "fuel:octane_88": "no",
+        "fuel:octane_89": "no",
+        "fuel:octane_90": "no",
+        "fuel:octane_91": "no",
+        "fuel:octane_92": "yes",
+        "fuel:octane_93": "no",
+        "large_vehicles": "yes",
+        "mobile_reception": "yes",
+        "name": "Northern Energy Corporation",
+        "operator": "Northern Energy",
+        "payment:cards": "yes",
+        "payment:contactless": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -143.0090654,
+          63.3379221
+        ]
+      },
+      "id": "node/4937638010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4937638011",
+        "amenity": "fuel",
+        "fuel:diesel": "no",
+        "fuel:gasoline": "no",
+        "fuel:lpg": "yes",
+        "large_vehicles": "yes",
+        "mobile_reception": "yes",
+        "operator": "Northern Energy Corporation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -143.0089366,
+          63.3380918
+        ]
+      },
+      "id": "node/4937638011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4946680541",
+        "addr:state": "AK",
+        "addr:street": "Elliott Highway",
+        "amenity": "fuel",
+        "fixme": "Please verify tags:  addr; fuel:octane_XX; hours; phone; website",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "fuel:gasoline_87": "yes",
+        "large_vehicles": "yes",
+        "mobile_reception": "yes",
+        "name": "Hilltop Truck Stop",
+        "self_service": "yes",
+        "source": "GPS;geolocated photo;aerial imagery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.6516903,
+          65.0241995
+        ]
+      },
+      "id": "node/4946680541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4946680605",
+        "addr:city": "Fox",
+        "addr:housenumber": "2226",
+        "addr:postcode": "99712",
+        "addr:state": "AK",
+        "addr:street": "Old Steese Highway",
+        "amenity": "fuel",
+        "brand": "Tesoro",
+        "brand:wikidata": "Q123414862",
+        "fixme": "Please add and verify tags:  addr; fuel:octane_XX; hours; phone; website",
+        "fuel:diesel": "yes",
+        "name": "Tesoro",
+        "operator": "Tesoro Corporation",
+        "source": "GPS;geolocated photo;aerial imagery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.6171434,
+          64.9578555
+        ]
+      },
+      "id": "node/4946680605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4964308402",
+        "amenity": "fuel",
+        "brand": "Holiday",
+        "brand:wikidata": "Q5880490",
+        "compressed_air": "yes",
+        "fuel:diesel": "yes",
+        "fuel:gasoline_87": "yes",
+        "name": "Holiday",
+        "operator": "Holiday",
+        "source": "GPS;geolocated photo;aerial imagery",
+        "website": "https://www.holidaystationstores.com/Locations/Detail?storeNumber=638"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.913806,
+          61.1861793
+        ]
+      },
+      "id": "node/4964308402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5017123646",
+        "amenity": "fuel",
+        "fuel:lpg": "yes",
+        "operator": "independent",
+        "source": "GPS;geolocated photo;aerial imagery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.3064016,
+          61.9539804
+        ]
+      },
+      "id": "node/5017123646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5017123802",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:gasoline_87": "yes",
+        "name": "Mountain View Gas & Grocery",
+        "sanitary_dump_station": "yes",
+        "source": "GPS;geolocated photo;aerial imagery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.3061467,
+          61.9538908
+        ]
+      },
+      "id": "node/5017123802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5017435375",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "fuel:gasoline_87": "yes",
+        "large_vehicles": "yes",
+        "mobile_reception": "yes",
+        "name": "Spirit Mountain Gas",
+        "opening_hours": "24/7",
+        "operator": "Spirit Mountain",
+        "self_service": "yes",
+        "source": "GPS;geolocated photo;aerial imagery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -144.4416802,
+          61.5191901
+        ]
+      },
+      "id": "node/5017435375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5027439352",
+        "amenity": "fuel",
+        "fuel:gasoline_87": "yes",
+        "name": "Acres Kwik Trip",
+        "operator": "independent",
+        "source": "GPS;geolocated photo;aerial imagery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -146.2667745,
+          61.1244207
+        ]
+      },
+      "id": "node/5027439352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5042068520",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:gasoline_87": "yes",
+        "operator": "independent",
+        "source": "GPS;geolocated photo;aerial imagery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.4778993,
+          62.1166198
+        ]
+      },
+      "id": "node/5042068520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5045573998",
+        "amenity": "fuel",
+        "operator": "Posty's Trading Post",
+        "source": "GPS;geolocated photo;aerial imagery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -144.6487058,
+          62.5919075
+        ]
+      },
+      "id": "node/5045573998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5059290752",
+        "amenity": "fuel",
+        "fuel:lpg": "yes",
+        "operator": "independent",
+        "source": "GPS;geolocated photo;aerial imagery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -146.9138682,
+          64.4552907
+        ]
+      },
+      "id": "node/5059290752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5059290753",
+        "amenity": "fuel",
+        "fuel:gasoline_87": "yes",
+        "operator": "independent",
+        "source": "GPS;geolocated photo;aerial imagery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -146.9139862,
+          64.454865
+        ]
+      },
+      "id": "node/5059290753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5059457397",
+        "amenity": "fuel",
+        "brand": "Tesoro",
+        "fuel:diesel": "yes",
+        "fuel:gasoline_87": "yes",
+        "operator": "Tesoro Corporation",
+        "source": "GPS;geolocated photo;aerial imagery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -146.984134,
+          64.5223611
+        ]
+      },
+      "id": "node/5059457397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5088040792",
+        "amenity": "fuel",
+        "operator": "Baycrest Fuel & Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.6376647,
+          59.6581885
+        ]
+      },
+      "id": "node/5088040792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5097725442",
+        "amenity": "fuel",
+        "brand": "Chevron",
+        "brand:wikidata": "Q319642",
+        "fuel:diesel": "yes",
+        "fuel:gasoline_87": "yes",
+        "name": "Chevron",
+        "operator": "Chevron",
+        "source": "GPS;geolocated photo;aerial imagery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.71562,
+          64.8445789
+        ]
+      },
+      "id": "node/5097725442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5097820230",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:gasoline_87": "yes",
+        "name": "Ester Gas",
+        "operator": "Ester Gas",
+        "source": "GPS;geolocated photo;aerial imagery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.0095291,
+          64.8442266
+        ]
+      },
+      "id": "node/5097820230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5117391338",
+        "fuel:lpg": "yes",
+        "shop": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.5056652,
+          59.6391365
+        ]
+      },
+      "id": "node/5117391338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5553174211",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.7779001,
+          61.2092788
+        ]
+      },
+      "id": "node/5553174211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5726974021",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -146.2680165,
+          61.1250446
+        ]
+      },
+      "id": "node/5726974021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5727276421",
+        "amenity": "fuel",
+        "brand": "Shell Express",
+        "brand:wikidata": "Q2289188",
+        "name": "Shell Express"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.7775355,
+          61.2094495
+        ]
+      },
+      "id": "node/5727276421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5742951721",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.4654885,
+          70.199825
+        ]
+      },
+      "id": "node/5742951721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5792913734",
+        "amenity": "fuel",
+        "fuel:lpg": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.4492745,
+          60.9699769
+        ]
+      },
+      "id": "node/5792913734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5809358894",
+        "amenity": "fuel",
+        "brand": "Holiday",
+        "brand:wikidata": "Q5880490",
+        "name": "Holiday",
+        "operator": "Holiday",
+        "website": "https://www.circlek.com/store-locator/US/anchorage/801-e-tudor-rd/2746632"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.867166,
+          61.1811954
+        ]
+      },
+      "id": "node/5809358894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5837244385",
+        "amenity": "fuel",
+        "name": "Chicken Pump Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -141.934515,
+          64.0724546
+        ]
+      },
+      "id": "node/5837244385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5917534368",
+        "amenity": "fuel",
+        "source": "EsriWorldImagery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.388037,
+          61.5840724
+        ]
+      },
+      "id": "node/5917534368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5994401844",
+        "amenity": "fuel",
+        "brand": "Chevron",
+        "brand:wikidata": "Q319642",
+        "name": "Chevron",
+        "source": "EsriWorldImagery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.466503,
+          61.5819015
+        ]
+      },
+      "id": "node/5994401844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5997183994",
+        "amenity": "fuel",
+        "brand": "Tesoro",
+        "name": "Tesoro",
+        "operator": "Valley Country Stores",
+        "source": "EsriWorldImagery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.5109556,
+          61.6135245
+        ]
+      },
+      "id": "node/5997183994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6001874572",
+        "amenity": "fuel",
+        "source": "EsriWorldImagery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.3951588,
+          61.6142474
+        ]
+      },
+      "id": "node/6001874572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6011349888",
+        "amenity": "fuel",
+        "brand": "Chevron",
+        "brand:wikidata": "Q319642",
+        "name": "Chevron",
+        "source": "EsriWorldImagery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.466017,
+          61.5819809
+        ]
+      },
+      "id": "node/6011349888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6011611729",
+        "amenity": "fuel",
+        "compressed_air": "no",
+        "name": "Shell",
+        "source": "EsriWorldImagery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.6307735,
+          61.5838176
+        ]
+      },
+      "id": "node/6011611729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6011708582",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.6044895,
+          61.5805679
+        ]
+      },
+      "id": "node/6011708582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6038345240",
+        "amenity": "fuel",
+        "source": "EsriWorldImagery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.5705581,
+          61.3277249
+        ]
+      },
+      "id": "node/6038345240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6038345251",
+        "amenity": "fuel",
+        "brand": "Carrs",
+        "brand:wikidata": "Q5046735",
+        "name": "Carrs",
+        "source": "EsriWorldImagery",
+        "website": "https://local.fuel.carrsqc.com/ak/eagle-river/11409-business-park-blvd.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.5737837,
+          61.3239458
+        ]
+      },
+      "id": "node/6038345251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6043354776",
+        "amenity": "fuel",
+        "source": "EsriWorldImagery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.0342963,
+          61.5485666
+        ]
+      },
+      "id": "node/6043354776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6108808436",
+        "amenity": "fuel",
+        "brand": "Holiday",
+        "brand:wikidata": "Q5880490",
+        "compressed_air": "yes",
+        "name": "Holiday",
+        "source": "Bing",
+        "website": "https://www.circlek.com/store-locator/US/anchorage/1501-abbott-rd/2746606"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.853794,
+          61.1450404
+        ]
+      },
+      "id": "node/6108808436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6110212206",
+        "amenity": "fuel",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8646153,
+          61.1245687
+        ]
+      },
+      "id": "node/6110212206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6551185362",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:gasoline_87": "no",
+        "fuel:gasoline_91": "no",
+        "fuel:gasoline_95": "no",
+        "operator": "Petro Marine Services"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.5019677,
+          59.6402027
+        ]
+      },
+      "id": "node/6551185362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8155449386",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8872004,
+          61.188572
+        ]
+      },
+      "id": "node/8155449386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8258990426",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.9971787,
+          70.2138305
+        ]
+      },
+      "id": "node/8258990426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8656052917",
+        "addr:housenumber": "4058",
+        "addr:postcode": "99703",
+        "addr:street": "Gaffney Road",
+        "amenity": "fuel",
+        "internet_access": "wlan",
+        "name": "AAFES Express",
+        "name:en": "AAFES Express Shoppette Gas & Class Six",
+        "opening_hours": "24/7",
+        "phone": "+1 907-356-1272"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.6818059,
+          64.8316311
+        ]
+      },
+      "id": "node/8656052917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8832863384",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -164.6309363,
+          62.6861923
+        ]
+      },
+      "id": "node/8832863384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8837114887",
+        "amenity": "fuel",
+        "brand": "Chevron",
+        "brand:wikidata": "Q319642",
+        "compressed_air": "no",
+        "name": "Chevron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8350649,
+          61.1385255
+        ]
+      },
+      "id": "node/8837114887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8857698345",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -164.6298453,
+          62.6869729
+        ]
+      },
+      "id": "node/8857698345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8989217467",
+        "addr:housenumber": "Mile 42",
+        "addr:state": "AK",
+        "addr:street": "Denali Highway",
+        "amenity": "fuel",
+        "fuel:gasoline": "yes",
+        "fuel:octane_87": "yes",
+        "large_vehicles": "yes",
+        "mobile_reception": "no",
+        "operator": "Maclaren River Lodge",
+        "website": "https://www.maclarenlodge.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -146.5325895,
+          63.1191445
+        ]
+      },
+      "id": "node/8989217467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9000086713",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -144.6518487,
+          62.5859025
+        ]
+      },
+      "id": "node/9000086713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520772299",
+        "access": "private",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:unleaded": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.5941965,
+          68.6279346
+        ]
+      },
+      "id": "node/9520772299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9831814917",
+        "addr:city": "Glennallen",
+        "addr:housenumber": "187",
+        "addr:postcode": "99588",
+        "addr:state": "AK",
+        "addr:street": "Glenn Highway",
+        "amenity": "fuel",
+        "email": "glennallentowing@gmail.com",
+        "name": "Glennallen Towing and Recovery",
+        "opening_hours": "24/7",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+1 907-822-3303",
+        "self_service": "no",
+        "website": "https://www.glennallentowing.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.5349167,
+          62.1076391
+        ]
+      },
+      "id": "node/9831814917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9923453219",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.0821112,
+          65.1705597
+        ]
+      },
+      "id": "node/9923453219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9943572504",
+        "amenity": "fuel",
+        "name": "Petro One"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.5595809,
+          58.3575277
+        ]
+      },
+      "id": "node/9943572504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10797487514",
+        "amenity": "fuel",
+        "brand": "Chevron",
+        "brand:wikidata": "Q319642",
+        "name": "Chevron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.7328779,
+          61.2183503
+        ]
+      },
+      "id": "node/10797487514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10924109199",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -133.0838031,
+          55.5529766
+        ]
+      },
+      "id": "node/10924109199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10924109200",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -133.0813462,
+          55.5523652
+        ]
+      },
+      "id": "node/10924109200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10940928469",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.731979,
+          63.7788052
+        ]
+      },
+      "id": "node/10940928469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10968052734",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "compressed_air": "yes",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.738794,
+          60.5329484
+        ]
+      },
+      "id": "node/10968052734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11005935520",
+        "amenity": "fuel",
+        "name": "Vitus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.898698,
+          61.1805186
+        ]
+      },
+      "id": "node/11005935520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11115523490",
+        "amenity": "fuel",
+        "brand": "Holiday",
+        "brand:wikidata": "Q5880490",
+        "name": "Holiday",
+        "website": "https://www.circlek.com/store-locator/US/anchorage/2025-w-dimond-blvd/2746629"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.917828,
+          61.1381574
+        ]
+      },
+      "id": "node/11115523490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11225972857",
+        "amenity": "fuel",
+        "name": "Fuel Depot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.1016337,
+          64.7216185
+        ]
+      },
+      "id": "node/11225972857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11541022611",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.2425122,
+          61.5709186
+        ]
+      },
+      "id": "node/11541022611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11933744869",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "fuel:octane_85": "no",
+        "fuel:octane_86": "no",
+        "fuel:octane_87": "yes",
+        "fuel:octane_88": "no",
+        "fuel:octane_89": "no",
+        "fuel:octane_90": "no",
+        "fuel:octane_91": "yes",
+        "fuel:octane_92": "no",
+        "fuel:octane_93": "no",
+        "large_vehicles": "yes",
+        "mobile_reception": "yes",
+        "name": "Family Fuel",
+        "self_service": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.3198507,
+          59.454235
+        ]
+      },
+      "id": "node/11933744869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11993114333",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "large_vehicles": "yes",
+        "mobile_reception": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.3011014,
+          59.4715774
+        ]
+      },
+      "id": "node/11993114333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12030611524",
+        "addr:city": "Valdez",
+        "addr:housenumber": "230",
+        "addr:postcode": "99686",
+        "addr:state": "AK",
+        "addr:street": "Richardson Highway",
+        "amenity": "fuel",
+        "fuel:diesel": "no",
+        "fuel:gasoline": "no",
+        "fuel:lpg": "yes",
+        "operator": "Valdez RV Park",
+        "self_service": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -146.3437339,
+          61.1305123
+        ]
+      },
+      "id": "node/12030611524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064036502",
+        "amenity": "fuel",
+        "fuel:diesel": "no",
+        "fuel:gasoline": "no",
+        "fuel:lpg": "yes",
+        "large_vehicles": "yes",
+        "mobile_reception": "yes",
+        "name": "Propane",
+        "operator": "Riverview Quick Stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.5162885,
+          64.8324871
+        ]
+      },
+      "id": "node/12064036502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12107552788",
+        "amenity": "fuel",
+        "fuel:diesel": "no",
+        "fuel:gasoline": "no",
+        "fuel:lpg": "yes",
+        "large_vehicles": "yes",
+        "mobile_reception": "yes",
+        "name": "Suburban Propane",
+        "self_service": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.1711087,
+          60.9402861
+        ]
+      },
+      "id": "node/12107552788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12113457403",
+        "addr:city": "Anchorage",
+        "addr:housenumber": "3107",
+        "addr:state": "AK",
+        "addr:street": "Rampart Drive",
+        "amenity": "fuel",
+        "brand": "Suburban Propane",
+        "fuel:diesel": "no",
+        "fuel:gasoline": "no",
+        "fuel:lpg": "yes",
+        "large_vehicles": "yes",
+        "mobile_reception": "yes",
+        "name": "Suburban Propane",
+        "not:brand:wikidata": "Q120122434",
+        "operator": "Suburban Propane",
+        "self_service": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8215816,
+          61.2230934
+        ]
+      },
+      "id": "node/12113457403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12154367155",
+        "amenity": "fuel",
+        "brand": "Circle K",
+        "brand:wikidata": "Q3268010",
+        "fixme": "New gas station, needs survey",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "large_vehicles": "yes",
+        "mobile_reception": "yes",
+        "name": "Circle K",
+        "website": "https://www.circlek.com/store-locator/US/wasilla/169-n-meadow-lakes-loop/2746642"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.6454373,
+          61.5799047
+        ]
+      },
+      "id": "node/12154367155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12195917824",
+        "amenity": "fuel",
+        "name": "Shageluk Fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.5334729,
+          62.6579604
+        ]
+      },
+      "id": "node/12195917824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12320891790",
+        "amenity": "fuel",
+        "brand": "Tesoro",
+        "brand:wikidata": "Q123414862",
+        "name": "Tesoro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.7792559,
+          64.8278066
+        ]
+      },
+      "id": "node/12320891790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13255150674",
+        "amenity": "fuel",
+        "name": "Westside Services",
+        "operator": "Westside Services",
+        "self_service": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -131.6747479,
+          55.3492071
+        ]
+      },
+      "id": "node/13255150674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13399061403",
+        "addr:housenumber": "11301",
+        "addr:state": "AK",
+        "addr:street": "Old Glenn Highway",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.569806,
+          61.3224377
+        ]
+      },
+      "id": "node/13399061403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13916802478",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:en": "Shell",
+        "brand:th": "เซลล์",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "name": "Shell",
+        "name:en": "Shell",
+        "name:th": "เซลล์",
+        "note": "2026-06-07 position is approximate - not visible on Bing or ESRI imagery",
+        "source": "GPS;geolocated photo;aerial imagery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.7189009,
+          60.4881872
+        ]
+      },
+      "id": "node/13916802478"
+    }
+  ]
+}
