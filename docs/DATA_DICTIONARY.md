@@ -6,7 +6,6 @@
 - `acdu_operating_bpcd`, `acdu_operating_bpsd`: EIA atmospheric
   crude-distillation capacity.
 - `model_capacity`: normalized supplier capacity used in network construction.
-- Operator, coordinate, and source fields retain facility-level provenance.
 
 ## `marine_import_hubs.csv`
 
@@ -31,7 +30,7 @@
 ## `last_mile_locations.csv`
 
 - `cluster_id`, `Name`: stable clustered-location identifier and name.
-- `capacity_gallons_total`: observed, imputed, or analog storage volume.
+- `capacity_gallons_total`: observed, imputed, or manually created storage volume.
 - `model_capacity`: demand proxy in barrels.
 - `capacity_value_status`, `capacity_estimation_method`,
   `capacity_source_reference`, `nearest_observed_distance_km`: audit fields.

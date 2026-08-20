@@ -8,9 +8,8 @@
 | A04 | St. Paul and St. George use Adak gallons per resident | Manual estimate |
 | A05 | Kuparuk and Prudhoe industrial demand values are calibrated, not observed | Scenario assumption |
 | A06 | Marine-import-hub tonnage uses 6.7 barrels per short ton | Aggregate conversion |
-| A07 | Foreign receipts represent external supply; coastwise receipts are excluded | Accounting rule |
+| A07 | Foreign receipts represent external supply; coastwise receipts are excluded to prevent potential duplicate data issue | Accounting rule |
 | A08 | Supplier capacity is normalized to 110% of demand for network construction | Calibration |
 | A09 | Terminal capacity is normalized to 150% of demand for network construction | Calibration |
 | A10 | Geodesic distance represents transport cost | Cost proxy |
 | A11 | Domain restrictions represent feasible regional service | Evidence-informed modeling |
-| A12 | Positive-flow support from the minimum-cost solution represents the network | Network-construction assumption |

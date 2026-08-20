@@ -3,21 +3,18 @@
 This repository documents the data integration and network-construction
 procedure used to represent Alaska's refined-fuel distribution system as a
 three-tier network of suppliers, distribution terminals, and last-mile
-locations. Its scope ends with the representative network; it does not include
-the tri-level resilience model.
+locations.
 
 ![Representative Alaska refined-fuel distribution network](assets/representative_alaska_fuel_network.png)
 
-*Representative network showing refineries, marine import hubs, distribution
-terminals, last-mile locations, and the constructed arcs.*
+*Schematic representation of the Alaska fuel distribution network, showing the spatial distribution of supplier nodes, comprising refineries (star) and marine import hubs (diamond); transshipment facilities (square); and last-mile locations (circle).*
 
 ## Released network
 
 The network contains:
 
 - 16 suppliers: five refineries and 11 marine import hubs;
-- 52 distribution terminals: 51 physical terminals and one representative
-  Kuparuk terminal;
+- 52 distribution terminals;
 - 931 last-mile locations; and
 - 1,022 constructed arcs: 61 supplier-to-terminal and 961
   terminal-to-last-mile arcs.
@@ -72,7 +69,7 @@ may therefore select a different positive-flow arc set.
   allocation weights and normalized for network construction.
 - Arc distance is WGS84 ellipsoidal distance, used as a transportation-cost
   proxy rather than a physical route length.
-- Domain-informed restrictions are recorded in
+- Domain-informed restrictions are stored in
   [`config/domain_rules.json`](config/domain_rules.json) and supported in
   [`docs/DOMAIN_RULE_EVIDENCE.md`](docs/DOMAIN_RULE_EVIDENCE.md).
 

@@ -2,8 +2,7 @@
 
 This document identifies what each rule in `config/domain_rules.json` is based
 on and, critically, whether the source states the rule directly or merely
-  supports a manually selected modeling restriction. Page numbers below refer
-to the page printed in the report.
+  supports a manually selected modeling restriction.
 
 ## Evidence categories
 
