@@ -1,19 +1,18 @@
 # Representative Alaska Refined-Fuel Network
 
 This repository documents the data integration and network-construction
-procedure used to represent Alaska's refined-fuel distribution system as a
-three-tier network of suppliers, distribution terminals, and last-mile
+procedure used to represent Alaska's fuel distribution system as a network of suppliers, distribution terminals, and last-mile
 locations.
 
-![Representative Alaska refined-fuel distribution network](assets/representative_alaska_fuel_network.png)
+![Representative Alaska fuel distribution network](assets/representative_alaska_fuel_network.png)
 
-*Schematic representation of the Alaska fuel distribution network, showing the spatial distribution of supplier nodes, comprising refineries (star) and marine import hubs (diamond); transshipment facilities (square); and last-mile locations (circle).*
+*Schematic representation of the Alaska fuel distribution network, showing the spatial distribution of supplier nodes, comprising refineries (star) and import points (diamond); transshipment facilities (square); and last-mile locations (circle).*
 
 ## Released network
 
 The network contains:
 
-- 16 suppliers: five refineries and 11 marine import hubs;
+- 16 suppliers: five refineries and 11 marine import points;
 - 52 distribution terminals;
 - 931 last-mile locations; and
 - 1,022 constructed arcs: 61 supplier-to-terminal and 961
@@ -41,7 +40,7 @@ The processed node tables are:
 - `distribution_terminals.csv`
 - `last_mile_locations.csv`
 
-`network_arcs.csv` is the canonical representative-network arc table. The two
+`network_arcs.csv` is the representative-network arc table. The two
 stage-specific arc files contain the same arcs separated by network layer.
 
 ## Constructing the representative network
@@ -58,11 +57,9 @@ python scripts/validate_network.py
 ```
 
 The reference network was constructed with Gurobi 12.0.3. Gurobi must be
-installed and licensed separately, with `gurobi_cl` available on `PATH`. The
-continuous flow model can have alternative optima; an equally optimal solution
-may therefore select a different positive-flow arc set.
+installed and licensed separately, with `gurobi_cl` available on `PATH`.
 
-## Interpretation and provenance
+## Interpretation
 
 - Tank storage is a demand proxy, not measured annual consumption.
 - Refinery capacity, marine imports, and terminal storage are converted to
